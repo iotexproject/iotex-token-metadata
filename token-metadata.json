@@ -1,0 +1,10 @@
+{
+  "io1hp6y4eqr90j7tmul4w2wa8pm7wx462hq0mg4tw": {
+    "name": "Vitality",
+    "description": "Vitality (VITA) is a decentralized token for the IoTeX community.",
+    "logo": "vita.svg",
+    "type": "xrc20",
+    "symbol": "VITA",
+    "decimals": 18
+  }
+}
