@@ -10,7 +10,7 @@ Metadata of a token consists of the following
 - symbol (required)
 - decimals (optional, xrc20's default is 18)
 
-IoTeX Explorer (https://iotexscan.io/) and ioPay (http://iopay.iotex.io/) will include the mapping in their apps. It is still in progress.
+IoTeX Explorer (https://iotexscan.io/) and ioPay (http://iopay.iotex.io/) will include the metadata in their apps. All IoTeX ecosystem apps are welcome to support the metadata together.
 
 ## Add a new token
 
@@ -28,7 +28,5 @@ You can follow the steps to add your token in this repo,
 
 - The icon should be small, square, but high resolution, ideally a vector/svg.
 - Do not add your entry to the end of the JSON map, messing with the trailing comma. Your pull request should only be an addition of lines, and any line removals should be deliberate deprecations of those logos.
-- PR should include link to official project website referencing the suggested address.
-- Project website should include explanation of project.
-- Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
+- PR should include link to official project website referencing the suggested address. Project website should include explanation of project. Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
 - No Profanity in token name, description, etc.
