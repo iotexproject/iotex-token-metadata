@@ -6,5 +6,13 @@
     "type": "xrc20",
     "symbol": "VITA",
     "decimals": 18
+  },
+  "io1xpvzahnl4h46f9ea6u03ec2hkusrzu020th8xx": {
+    "name": "NFT",
+    "description": "NFT is a decentralized token for the IoTeX community.",
+    "logo": "nft.png",
+    "type": "xrc721",
+    "symbol": "",
+    "decimals": 18
   }
 }
