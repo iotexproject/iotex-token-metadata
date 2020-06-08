@@ -1,0 +1,27 @@
+{
+  "name": "iotex-token-metadata",
+  "version": "1.0.0",
+  "description": "a collection of the metadata of all tokens on IoTeX blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotexproject/iotex-token-metadata.git"
+  },
+  "keywords": [
+    "iotex"
+  ],
+  "author": "iotex team",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/iotexproject/iotex-token-metadata/issues"
+  },
+  "homepage": "https://github.com/iotexproject/iotex-token-metadata#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "tape": "^5.0.1"
+  }
+}
