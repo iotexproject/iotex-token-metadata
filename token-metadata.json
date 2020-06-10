@@ -6,5 +6,12 @@
     "type": "xrc20",
     "symbol": "VITA",
     "decimals": 18
+  },
+  "io1xpvzahnl4h46f9ea6u03ec2hkusrzu020th8xx": {
+    "name": "Ucam Pioneer",
+    "description": "Ucam Pioneer is a limited edition NFT denoting owners' first adoption of Ucam.",
+    "logo": "ucam_pioneer.png",
+    "type": "xrc721",
+    "symbol": "UPT"
   }
 }
