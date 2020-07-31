@@ -27,6 +27,6 @@
     "logo": "burndrop.svg",
     "type": "xrc721",
     "symbol": "BDI",
-    "image_urls": ["https://burndrop.iotex.io/img/burngrop_badge.png"]
+    "image_urls": ["https://burndrop.iotex.io/img/burndrop_badge.png"]
   }
 }
