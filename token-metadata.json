@@ -20,5 +20,13 @@
     "logo": "longz.svg",
     "type": "xrc721",
     "symbol": "LongZ"
+  },
+  "io1350aa78f2h4czfn67e7dajdh7trg3749rp40ne": {
+    "name": "Burn-Drop Ignite",
+    "description": "Burn-Drop Ignite is a limited edition NFT denoting Burn-Drop Ignite participants.",
+    "logo": "burndrop.svg",
+    "type": "xrc721",
+    "symbol": "BDI",
+    "image_urls": ["https://burndrop.iotex.io/img/burndrop_badge.png"]
   }
 }

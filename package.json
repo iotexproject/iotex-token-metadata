@@ -1,6 +1,6 @@
 {
   "name": "iotex-token-metadata",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "a collection of the metadata of all tokens on IoTeX blockchain.",
   "main": "index.js",
   "scripts": {
