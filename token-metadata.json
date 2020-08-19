@@ -2,7 +2,7 @@
   "io1hp6y4eqr90j7tmul4w2wa8pm7wx462hq0mg4tw": {
     "name": "Vitality",
     "description": "Vitality (VITA) is a decentralized token for the IoTeX community.",
-    "logo": "vita.svg",
+    "logo": "vita.png",
     "type": "xrc20",
     "symbol": "VITA",
     "decimals": 18
@@ -17,9 +17,17 @@
   "io1343t63p68pc9h76hmy0azvzy0l9msfetp2at70": {
     "name": "LongZ Card",
     "description": "LongZ Card is a limited edition NFT denoting owners' LongZ community.",
-    "logo": "longz.svg",
+    "logo": "longz.png",
     "type": "xrc721",
     "symbol": "LongZ",
     "image_urls": ["https://i.ibb.co/Yj0594B/logo.png"]
+  },
+  "io1350aa78f2h4czfn67e7dajdh7trg3749rp40ne": {
+    "name": "Burn-Drop Ignite",
+    "description": "Burn-Drop Ignite is a limited edition NFT denoting Burn-Drop Ignite participants.",
+    "logo": "burndrop.png",
+    "type": "xrc721",
+    "symbol": "BDI",
+    "image_urls": ["https://burndrop.iotex.io/img/burndrop_badge.png"]
   }
 }
