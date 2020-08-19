@@ -13,5 +13,13 @@
     "logo": "ucam_pioneer.png",
     "type": "xrc721",
     "symbol": "UPT"
+  },
+  "io1wgt0skt4s3aa8c76z86xhhjs9z07zjarjpw0a8": {
+    "name": "Test",
+    "description": "Test is test token for test.",
+    "logo": "vita.svg",
+    "type": "xrc20",
+    "symbol": "TEST",
+    "decimals": 18
   }
 }
