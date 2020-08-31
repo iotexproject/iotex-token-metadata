@@ -19,7 +19,8 @@
     "description": "LongZ Card is a limited edition NFT denoting owners' LongZ community.",
     "logo": "longz.png",
     "type": "xrc721",
-    "symbol": "LongZ"
+    "symbol": "LongZ",
+    "image_urls": ["https://i.ibb.co/Yj0594B/logo.png"]
   },
   "io1350aa78f2h4czfn67e7dajdh7trg3749rp40ne": {
     "name": "Burn-Drop Ignite",
