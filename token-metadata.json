@@ -21,5 +21,13 @@
     "type": "xrc20",
     "symbol": "TEST",
     "decimals": 18
-  }
+  },
+  "io1cx6pq7w7vgfgfs46av5kh3z9gcxglq3vf4263s": {
+    "name": "HTT",
+    "description": "Test Token for ioTube.",
+    "logo": "vita.svg",
+    "type": "xrc20",
+    "symbol": "xHTT",
+    "decimals": 18
+  },
 }
