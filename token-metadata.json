@@ -29,5 +29,21 @@
     "type": "xrc721",
     "symbol": "BDI",
     "image_urls": ["https://burndrop.iotex.io/img/burndrop_badge.png"]
+  },
+  "io1qfvgvmk6lpxkpqwlzanqx4atyzs86ryqjnfuad": {
+    "name": "WETH",
+    "description": "",
+    "logo": "weth.png",
+    "type": "xrc20",
+    "symbol": "WETH",
+    "image_urls": []
+  },
+  "io19fsq8e9krrlng4ay5gyq6q5tqfym28yq9ly0fz": {
+    "name": "PAXG",
+    "description": "",
+    "logo": "paxg.png",
+    "type": "xrc20",
+    "symbol": "PAXG",
+    "image_urls": []
   }
 }
