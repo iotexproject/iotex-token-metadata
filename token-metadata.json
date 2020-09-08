@@ -17,7 +17,7 @@
   "io1wgt0skt4s3aa8c76z86xhhjs9z07zjarjpw0a8": {
     "name": "Test",
     "description": "Test is test token for test.",
-    "logo": "vita.svg",
+    "logo": "vita.png",
     "type": "xrc20",
     "symbol": "TEST",
     "decimals": 18
@@ -25,7 +25,7 @@
   "io1cx6pq7w7vgfgfs46av5kh3z9gcxglq3vf4263s": {
     "name": "HTT",
     "description": "Test Token for ioTube.",
-    "logo": "vita.svg",
+    "logo": "vita.png",
     "type": "xrc20",
     "symbol": "xHTT",
     "decimals": 18
