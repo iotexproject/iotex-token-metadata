@@ -12,7 +12,8 @@
     "description": "Ucam Pioneer is a limited edition NFT denoting owners' first adoption of Ucam.",
     "logo": "ucam_pioneer.png",
     "type": "xrc721",
-    "symbol": "UPT"
+    "symbol": "UPT",
+    "image_urls": ["https://iotex.b-cdn.net/ucam/ucam_badge.png"]
   },
   "io1343t63p68pc9h76hmy0azvzy0l9msfetp2at70": {
     "name": "LongZ Card",
@@ -28,7 +29,7 @@
     "logo": "burndrop.png",
     "type": "xrc721",
     "symbol": "BDI",
-    "image_urls": ["https://burndrop.iotex.io/img/burndrop_badge.png"]
+    "image_urls": ["https://iotex.b-cdn.net/burndrop/burndrop_badge.png"]
   },
   "io1qfvgvmk6lpxkpqwlzanqx4atyzs86ryqjnfuad": {
     "name": "WETH",
