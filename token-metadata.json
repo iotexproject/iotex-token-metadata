@@ -73,7 +73,6 @@
     "logo": "io1gafy2msqmmmqyhrhk4dg3ghc59cplyhekyyu26.png",
     "type": "xrc20",
     "symbol": "METX",
-    "image_urls": ["https://metanyx.com/wp-content/uploads/2020/10/Metx_icon_512x512.png"],
     "decimals": 18
   },
   "io1d7zv3k2t2ty3236mup52fv6pvnqu9rwpdkcde6": {
