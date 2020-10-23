@@ -85,5 +85,13 @@
     "type": "xrc721",
     "symbol": "PMT",
     "image_urls": ["https://iotex.b-cdn.net/tokens/privacyMatters.png"]
+  },
+  "io14ky4h2u6ahq9vprrrt9u62fszzkwu2tz04mf03": {
+    "name": "GameFantasyCat",
+    "description": "enjoy the game!",
+    "logo": "io14ky4h2u6ahq9vprrrt9u62fszzkwu2tz04mf03.png",
+    "type": "xrc721",
+    "symbol": "GFC",
+    "image_urls": []
   }
 }
