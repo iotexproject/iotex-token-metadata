@@ -58,6 +58,15 @@
     "image_urls": [],
     "decimals": 18
   },
+  "io1c7unwg8h8vph89xwqru4f7zfa4yy5002wxvlrm": {
+    "name": "Wrapped BTC",
+    "description": "",
+    "logo": "io1c7unwg8h8vph89xwqru4f7zfa4yy5002wxvlrm.png",
+    "type": "xrc20",
+    "symbol": "ioWBTC",
+    "image_urls": [],
+    "decimals": 8
+  },
   "io1ahh04jn2zkqlug6feh7rpq75a75p3rj42hp4ch": {
     "name": "UNISWAP",
     "description": "",
