@@ -84,6 +84,14 @@
     "symbol": "METX",
     "decimals": 18
   },
+  "io13z9y0kqcgsmke00xwdalcup2zz3pwhuhexd22e": {
+    "name": "SonicDiamond",
+    "description": "The fast and extremely rare XRC20 ",
+    "logo": "io13z9y0kqcgsmke00xwdalcup2zz3pwhuhexd22e.png",
+    "type": "xrc20",
+    "symbol": "SDI",
+    "decimals": 8
+  },
   "io1d7zv3k2t2ty3236mup52fv6pvnqu9rwpdkcde6": {
     "name": "PrivacyMatters",
     "description": "",
