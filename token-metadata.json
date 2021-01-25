@@ -115,5 +115,13 @@
     "type": "xrc20",
     "symbol": "ioUSDT",
     "decimals": 6
+  },
+  "io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh":{
+    "name": "Cyclone Protocol",
+    "description": "Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses.",
+    "logo": "io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh.png",
+    "type": "xrc20",
+    "symbol": "CYC",
+    "decimals": 18
   }
 }
