@@ -106,9 +106,11 @@
     "logo": "io14ky4h2u6ahq9vprrrt9u62fszzkwu2tz04mf03.png",
     "type": "xrc721",
     "symbol": "GFC",
-    "image_urls": ["https://s3-ap-northeast-1.amazonaws.com/cat.gamefantasy.com/cat.png"]
+    "image_urls": [
+      "https://s3-ap-northeast-1.amazonaws.com/cat.gamefantasy.com/cat.png"
+    ]
   },
-  "io1er3t54p96l6x70l9hmd6nmx7sm74jc9sz287m6":{
+  "io1er3t54p96l6x70l9hmd6nmx7sm74jc9sz287m6": {
     "name": "Tether USD",
     "description": " ",
     "logo": "io1er3t54p96l6x70l9hmd6nmx7sm74jc9sz287m6.png",
@@ -116,12 +118,20 @@
     "symbol": "ioUSDT",
     "decimals": 6
   },
-  "io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh":{
+  "io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh": {
     "name": "Cyclone Protocol",
     "description": "Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses.",
     "logo": "io1f4acssp65t6s90egjkzpvrdsrjjyysnvxgqjrh.png",
     "type": "xrc20",
     "symbol": "CYC",
+    "decimals": 18
+  },
+  "io15qr5fzpxsnp7garl4m7k355rafzqn8grrm0grz": {
+    "name": "IoTeX Network",
+    "description": "",
+    "logo": "io15qr5fzpxsnp7garl4m7k355rafzqn8grrm0grz.png",
+    "type": "xrc20",
+    "symbol": "WIOTX",
     "decimals": 18
   }
 }
