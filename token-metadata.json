@@ -133,5 +133,21 @@
     "type": "xrc20",
     "symbol": "WIOTX",
     "decimals": 18
+  },
+  "io1xge7h37n7xhrvjakutc476amn030fdcucyvu4r": {
+    "name": "Idea-Thon Winner",
+    "description": "",
+    "logo": "io1xge7h37n7xhrvjakutc476amn030fdcucyvu4r.png",
+    "type": "xrc721",
+    "symbol": "ITW",
+    "image_urls": ["https://iotex.b-cdn.net/tokens/nft_ideathon_winner.png"]
+  },
+  "io1qqhzumd747f39f7zfen4f6ulyxhl774tknf778": {
+    "name": "Idea-Thon",
+    "description": "",
+    "logo": "io1qqhzumd747f39f7zfen4f6ulyxhl774tknf778.png",
+    "type": "xrc721",
+    "symbol": "ITP",
+    "image_urls": ["https://iotex.b-cdn.net/tokens/nft_ideathon.png"]
   }
 }
