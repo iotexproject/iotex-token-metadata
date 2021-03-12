@@ -24,6 +24,14 @@ You can follow the steps to add your token in this repo,
 6. waiting for PR review
 7. merge PR
 
+## Publish lib
+
+```
+$ npm login
+// update package.json version
+$ npm publish
+```
+
 ## Guidelines for tokens
 
 - The icon should be small, square, but high resolution, ideally a vector/svg.
