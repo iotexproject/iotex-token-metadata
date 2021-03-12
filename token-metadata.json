@@ -157,5 +157,21 @@
     "type": "xrc20",
     "symbol": "UP",
     "decimals": 18
+  },
+  "io1jlnvfzr8lhper2xla8gknmxsqhgajq5ravu4wr": {
+    "name": "Binance Coin",
+    "description": "",
+    "logo": "io1jlnvfzr8lhper2xla8gknmxsqhgajq5ravu4wr.png",
+    "type": "xrc20",
+    "symbol": "BNB-bsc",
+    "decimals": 18
+  },
+  "io1sj4uk2pjhesxxsd9qy52avwmgw4qzazfrypm04": {
+    "name": "BUSD",
+    "description": "",
+    "logo": "io1sj4uk2pjhesxxsd9qy52avwmgw4qzazfrypm04.png",
+    "type": "xrc20",
+    "symbol": "BUSD-bsc",
+    "decimals": 18
   }
 }
