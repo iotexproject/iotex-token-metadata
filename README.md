@@ -29,7 +29,7 @@ You can follow the steps to add your token in this repo,
 ```
 $ npm login
 // update package.json version
-$ npm publish
+$ npm publish .
 ```
 
 ## Guidelines for tokens
