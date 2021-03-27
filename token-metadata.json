@@ -173,5 +173,13 @@
     "type": "xrc20",
     "symbol": "BUSD-bsc",
     "decimals": 18
+  },
+  "io1nrvpfgks5glmqefj943khkpj7f50n08c07a2ts": {
+    "name": "Excellium",
+    "description": "Excellium (EXE) is a fast XRC20 token.",
+    "logo": "io1nrvpfgks5glmqefj943khkpj7f50n08c07a2ts.png",
+    "type": "xrc20",
+    "symbol": "EXE",
+    "decimals": 8
   }
 }
