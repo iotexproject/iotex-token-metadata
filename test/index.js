@@ -46,8 +46,8 @@ test("symbols should be six or less characters", function (t) {
     const symbol = contract.symbol;
     if (symbol) {
       t.notOk(
-        symbol.length > 6,
-        `symbol with more than 6 characters: "${symbol}"`
+        symbol.length > 10,
+        `symbol with more than 10 characters: "${symbol}"`
       );
     }
   });
