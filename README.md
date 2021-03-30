@@ -20,9 +20,9 @@ You can follow the steps to add your token in this repo,
 2. add token's logo to `images/`
 3. add metadata to `token-metadata.json`
 4. commit to your forked repo
-5. create a PR to this repo
-6. waiting for PR review
-7. merge PR
+5. create a PR to this repo with links to token project website
+7. waiting for PR review
+8. merge PR
 
 ## Publish lib
 
