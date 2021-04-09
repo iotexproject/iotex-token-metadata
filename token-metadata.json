@@ -75,11 +75,11 @@
     "symbol": "ioUNI",
     "image_urls": [],
     "decimals": 18
-  }, 
+  },
   "io1m43dzu4q5klmhu9yffperyrugu8dag58kq9syu": {
     "name": "Hacking Token",
     "description": "These tokens can be obtained by visiting and playing the hacking game on JRPC.pl / JRPC.io",
-    "logo": "io1gafy2msqmmmqyhrhk4dg3ghc59cplyhekyyu26.png",
+    "logo": "io1m43dzu4q5klmhu9yffperyrugu8dag58kq9syu.png",
     "type": "xrc20",
     "symbol": "JRPC",
     "decimals": 4
