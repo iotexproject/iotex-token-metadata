@@ -181,5 +181,13 @@
     "type": "xrc20",
     "symbol": "BUSD-bsc",
     "decimals": 18
+  },
+  "io1kjj6y54l9trvl0kelumz0pcj0u8dpxd7sh85z8": {
+    "name": "FinTech",
+    "description": "Instant financial database FinTech Fast and Reliable Xrc20 Token ",
+    "logo": "io1kjj6y54l9trvl0kelumz0pcj0u8dpxd7sh85z8.png",
+    "type": "xrc20",
+    "symbol": "FINT",
+    "decimals": 8
   }
 }
