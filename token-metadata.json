@@ -181,5 +181,13 @@
     "type": "xrc20",
     "symbol": "BUSD-bsc",
     "decimals": 18
+  },
+  "io1fgl5ujhy80et85qyjjd5xwvq9v9m8kmesazj7l": {
+  "name": "IOTEXjr",
+  "description": "",
+  "logo": "io1fgl5ujhy80et85qyjjd5xwvq9v9m8kmesazj7l.png",
+  "type": "xrc20",
+  "symbol": "IOjr",
+  "decimals": 3
   }
 }
