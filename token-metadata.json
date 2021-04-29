@@ -181,5 +181,13 @@
     "type": "xrc20",
     "symbol": "BUSD-bsc",
     "decimals": 18
+  },
+  "io18d6759s7k4pgw842844vf9uktrcvfjdwekw9ea": {
+    "name": "Rainbow",
+    "description": "Rainbow is a Smart decentralized token builds on XRC20",
+    "logo": "io18d6759s7k4pgw842844vf9uktrcvfjdwekw9ea",
+    "type": "xrc20",
+    "symbol": "RAIN",
+    "decimals": 8
   }
 }
