@@ -1,0 +1,12 @@
+@@ -181,5 +181,13 @@
+    "type": "xrc20",
+    "symbol": "IOTX-NMP",
+    "decimals": 1
+  },
+  "io1hcd2n8m7rrxqn9u5e20lqxd9dfpz0p8mt0704y": {
+    "name": "Nemesis Project",
+    "description": "Nemesis Project is a Smart decentralized token builds on XRC20",
+    "logo": "",
+    "type": "xrc20",
+    "symbol": "NMP",
+    "decimals": 1
