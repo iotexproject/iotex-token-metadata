@@ -184,10 +184,19 @@
   },
   "io1fgl5ujhy80et85qyjjd5xwvq9v9m8kmesazj7l": {
   "name": "IOTEXjr",
-  "description": "",
+  "description": "https://www.iotexjr.com",
   "logo": "io1fgl5ujhy80et85qyjjd5xwvq9v9m8kmesazj7l.png",
   "type": "xrc20",
   "symbol": "IOjr",
   "decimals": 3
+  },
+  "io18d6759s7k4pgw842844vf9uktrcvfjdwekw9ea": {
+    "name": "Rainbow",
+    "description": "Rainbow is a Smart decentralized token builds on XRC20",
+    "logo": "io18d6759s7k4pgw842844vf9uktrcvfjdwekw9ea.png",
+    "type": "xrc20",
+    "symbol": "RAIN",
+    "decimals": 8
+
   }
 }
