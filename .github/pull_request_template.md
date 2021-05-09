@@ -1,7 +1,14 @@
-<!-- 
-Please add a link to the official website. 
-Make sure the website includes a detailed description of the project, 
-and clear references to the token contract address you are submitting. 
+<!-- Please add a link to the official website. -->
+
+<!-- Make sure the website includes: 
+  - a detailed description of the project, 
+  - main purpose of the token, usage, etc... 
+  - clear references to the token contract address you are submitting.
+-->
+
+<!-- If available, please add links to social channels -->
+
+<!-- Disclaimer
 We will only take into consideration projects that show clear signs of activity: 
 either traffic on the network, activity on GitHub, or community buzz.
 Please notice that maintaining this list is not our highest priority. 
@@ -14,4 +21,6 @@ Plese see the "Guidelines for tokens" section in the README file.
 Thanks! 
 -->
 
-- **Project official website**: http://...
+- **Project official website**: https://...
+
+- **Project official social**: https://...
