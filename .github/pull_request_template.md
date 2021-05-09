@@ -1,5 +1,7 @@
 <!-- Please add a link to the official website. -->
 
+- **Project official website**: https://...
+
 <!-- Make sure the website includes: 
   - a detailed description of the project, 
   - main purpose of the token, usage, etc... 
@@ -7,6 +9,8 @@
 -->
 
 <!-- If available, please add links to social channels -->
+
+- **Project official social**: https://...
 
 <!-- Disclaimer
 We will only take into consideration projects that show clear signs of activity: 
@@ -20,7 +24,3 @@ airdrop-based phishing, or any cryptocurrency counterfeit scam.
 Plese see the "Guidelines for tokens" section in the README file.
 Thanks! 
 -->
-
-- **Project official website**: https://...
-
-- **Project official social**: https://...
