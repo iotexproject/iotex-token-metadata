@@ -190,4 +190,10 @@
     "symbol": "RAIN",
     "decimals": 8
   }
-}
+  "io15x9unntqhwvq2x4ckktdjfw9g0f304mq93s5uf": {
+    "name": "Blockchain Cheetah",
+    "description": "Blockchain Cheetah (BCC) decentralized synthetic asset trading and payment network.",
+    "logo": "io15x9unntqhwvq2x4ckktdjfw9g0f304mq93s5uf.png",
+    "type": "xrc20",
+    "symbol": "BCC",
+    "decimals": 1
