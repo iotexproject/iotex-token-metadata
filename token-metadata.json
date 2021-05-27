@@ -197,5 +197,14 @@
     "type": "xrc20",
     "symbol": "BOB",
     "decimals": 18
+
+  },
+   "io1zl0el07pek4sly8dmscccnm0etd8xr8j02t4y7": {
+    "name": "GameFantasyToken",
+    "description": "Game Fantasy Token",
+    "logo": "io1zl0el07pek4sly8dmscccnm0etd8xr8j02t4y7.png",
+    "type": "xrc20",
+    "symbol": "GFT",
+    "decimals": 18
   }
 }
