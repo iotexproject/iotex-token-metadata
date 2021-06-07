@@ -206,5 +206,77 @@
     "type": "xrc20",
     "symbol": "GFT",
     "decimals": 18
+  },
+    "io13envp44hps9j85ulfvs6r6k99wagaky60pzl2c": {
+    "name": "WMatic",
+    "description": "Wrapped Matic Token",
+    "logo": "io13envp44hps9j85ulfvs6r6k99wagaky60pzl2c.png",
+    "type": "xrc20",
+    "symbol": "Matic",
+    "decimals": 18
+  },
+    "io1v5m9d7zrs852xkdzdresqf3phwc5cchc5crylc": {
+    "name": "WETH-MATIC",
+    "description": "Matic Wrapped Ether",
+    "logo": "io1v5m9d7zrs852xkdzdresqf3phwc5cchc5crylc.png",
+    "type": "xrc20",
+    "symbol": "WETH-matic",
+    "decimals": 18
+  },
+    "io10u9dv0ys93nmr7smzyptpkhlhzylt4wtqzrvld": {
+    "name": "WBTC-MATIC",
+    "description": "Matic Wrapped BTC",
+    "logo": "io10u9dv0ys93nmr7smzyptpkhlhzylt4wtqzrvld.png",
+    "type": "xrc20",
+    "symbol": "WBTC-matic",
+    "decimals": 8
+  },
+    "io1v25anp7t7nz954gdam2m27eqp4arr93jly4maa": {
+    "name": "Matic DAI Stablecoin",
+    "description": "Matic DAI Stablecoin",
+    "logo": "io1v25anp7t7nz954gdam2m27eqp4arr93jly4maa.png",
+    "type": "xrc20",
+    "symbol": "DAI-matic",
+    "decimals": 18
+  },
+    "io18ndhcj88pwz5a5h68yhzz6r4q8vykwhugq45ns": {
+    "name": "Matic Tether USD",
+    "description": "Matic Tether USD",
+    "logo": "io18ndhcj88pwz5a5h68yhzz6r4q8vykwhugq45ns.png",
+    "type": "xrc20",
+    "symbol": "USDT-matic",
+    "decimals": 6
+  },
+    "io1cpx682vazuf4s4amjd7jlwejr5akc65plgmdru": {
+    "name": "Matic USD Coin",
+    "description": "Matic USD Coin",
+    "logo": "io1cpx682vazuf4s4amjd7jlwejr5akc65plgmdru.png",
+    "type": "xrc20",
+    "symbol": "USDC-matic",
+    "decimals": 6
+  },
+    "io1990thrrc9cvxhjmsmx5pysznqs734h6uhxfxkq": {
+    "name": "Matic SushiToken",
+    "description": "SushiToken",
+    "logo": "io1990thrrc9cvxhjmsmx5pysznqs734h6uhxfxkq.png",
+    "type": "xrc20",
+    "symbol": "Sushi-matic",
+    "decimals": 18
+  },
+    "io1u346nz58mj5cjuj7ng3cn96upwam37v9axtju2": {
+    "name": "Matic Quickswap",
+    "description": "Matic Quickswap token",
+    "logo": "io1u346nz58mj5cjuj7ng3cn96upwam37v9axtju2.png",
+    "type": "xrc20",
+    "symbol": "QUICK-matic",
+    "decimals": 18
+  },
+    "io14tw8gyn3p8v5fcmvh4c0w8797ryjrlrvnsr6zf": {
+    "name": "Matic Aava Token",
+    "description": "Matic Aava token",
+    "logo": "io14tw8gyn3p8v5fcmvh4c0w8797ryjrlrvnsr6zf.png",
+    "type": "xrc20",
+    "symbol": "AAVE-matic",
+    "decimals": 18
   }
 }
