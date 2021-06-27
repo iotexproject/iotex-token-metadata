@@ -29,7 +29,7 @@ IoTeX Explorer (https://iotexscan.io/) and ioPay wallets (http://iopay.iotex.io/
 
 ## New token submission process
 
-Please notice that maintaining this list **is not our highest priority**. We do not guarantee the inclusion of your project metadata on any urgent timeline, because maintaining this list is a demanding and security-delicate task. We may also decide not to include the submission at all, e.g. if there are no proofs for a legit project behind the token, if we suspect the risk of pubm&dump activity, airdrop-based phishing, or any cryptocurrency counterfeit scam. Plese see the **Guidelines for tokens** section below.
+Please notice that maintaining this list **is not our highest priority**. We do not guarantee the inclusion of your project metadata on any urgent timeline, because maintaining this list is a demanding and security-delicate task. We may also decide not to include the submission at all, e.g. if there are no proofs for a legit project behind the token, if we suspect the risk of pump&dump activity, airdrop-based phishing, or any cryptocurrency counterfeit scam. Plese see the **Guidelines for tokens** section below.
 
 You can follow the steps below to submit your token metadata for review:
 
