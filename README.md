@@ -44,7 +44,7 @@ You can follow the steps below to submit your token metadata for review:
 ## Guidelines for tokens
 We will only take into consideration projects that show clear signs of activity: either traffic on the network, activity on GitHub, or community buzz.
 
-- The icon should be small, square, but high resolution, ideally a vector/svg.
+- The icon should be small, square, but high resolution, ideally a vector/svg. For png/jpg, 64x64 is recommended.
 - Do not add your entry to the end of the JSON map, messing with the trailing comma. 
 - Your pull request should only be an addition of lines: data removals should be made as a deliberate deprecation of the affected logo.
 - Make sure your PR includes a link to official project website referencing the token contract address you are submitting. Also, the website should include a detailed explanation of project.
