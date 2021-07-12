@@ -278,7 +278,7 @@
     "type": "xrc20",
     "symbol": "AAVE-matic",
     "decimals": 18
- },
+},
     "io1kf2u4nnp2m2h4p6zvj42z89qdmw9hkz3m4r9uq": {
     "name": "Alchemist",
     "description": "The token's purpose is to find the philosopher's stone and use it to explore the galaxy",
