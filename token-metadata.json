@@ -288,3 +288,12 @@
     "decimals": 18
   }
 }
+{
+  "io13253vczkj4ek9juvsak7nhmghmyyxufv293pjq: {
+    "name": "zia zilliqa",
+    "description": "zia zia token to educate",
+    "logo": "io13253vczkj4ek9juvsak7nhmghmyyxufv293pjq.png",
+    "type": "xrc20",
+    "symbol": "zia",
+    "decimals": 9
+  }
