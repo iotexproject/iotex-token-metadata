@@ -207,10 +207,10 @@
     "symbol": "GFT",
     "decimals": 18
   },
-   "io1e29sfsedd0fvs4czpcws5w8un60w2n6qfpum4t": {
-    "name": "GameFantasyStock",
-    "description": "Game Fantasy Stock",
-    "logo": "io1e29sfsedd0fvs4czpcws5w8un60w2n6qfpum4t.png",
+   "io1t585efypl4e9ex7xks2upnjm8saawfk0v0s5sj": {
+    "name": "GameFantasyStar",
+    "description": "Game Fantasy Star",
+    "logo": "io1t585efypl4e9ex7xks2upnjm8saawfk0v0s5sj.png",
     "type": "xrc20",
     "symbol": "GFS",
     "decimals": 18
