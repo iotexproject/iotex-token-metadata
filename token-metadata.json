@@ -207,6 +207,14 @@
     "symbol": "GFT",
     "decimals": 18
   },
+   "io1t585efypl4e9ex7xks2upnjm8saawfk0v0s5sj": {
+    "name": "GameFantasyStar",
+    "description": "Game Fantasy Star",
+    "logo": "io1t585efypl4e9ex7xks2upnjm8saawfk0v0s5sj.png",
+    "type": "xrc20",
+    "symbol": "GFS",
+    "decimals": 18
+  },
     "io13envp44hps9j85ulfvs6r6k99wagaky60pzl2c": {
     "name": "WMatic",
     "description": "Wrapped Matic Token",
