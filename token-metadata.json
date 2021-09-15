@@ -14,7 +14,7 @@
     "type": "xrc721",
     "symbol": "UPT",
     "image_urls": [
-      "https://iotex.b-cdn.net/ucam/ucam_badge.png"
+      "https://cdn.iotex.io/ucam/ucam_badge.png"
     ]
   },
   "io1343t63p68pc9h76hmy0azvzy0l9msfetp2at70": {
@@ -34,7 +34,7 @@
     "type": "xrc721",
     "symbol": "BDI",
     "image_urls": [
-      "https://iotex.b-cdn.net/burndrop/burndrop_badge.png"
+      "https://cdn.iotex.io/burndrop/burndrop_badge.png"
     ]
   },
   "io1qfvgvmk6lpxkpqwlzanqx4atyzs86ryqjnfuad": {
@@ -113,7 +113,7 @@
     "type": "xrc721",
     "symbol": "PMT",
     "image_urls": [
-      "https://iotex.b-cdn.net/tokens/privacyMatters.png"
+      "https://cdn.iotex.io/tokens/privacyMatters.png"
     ]
   },
   "io14ky4h2u6ahq9vprrrt9u62fszzkwu2tz04mf03": {
@@ -157,7 +157,7 @@
     "type": "xrc721",
     "symbol": "ITW",
     "image_urls": [
-      "https://iotex.b-cdn.net/tokens/nft_ideathon_winner.png"
+      "https://cdn.iotex.io/tokens/nft_ideathon_winner.png"
     ]
   },
   "io1qqhzumd747f39f7zfen4f6ulyxhl774tknf778": {
@@ -167,7 +167,7 @@
     "type": "xrc721",
     "symbol": "ITP",
     "image_urls": [
-      "https://iotex.b-cdn.net/tokens/nft_ideathon.png"
+      "https://cdn.iotex.io/tokens/nft_ideathon.png"
     ]
   },
   "io1j9u0fmy20lm0uz8gfrh2c0wmuxjl43cdmgva4a": {
@@ -305,5 +305,15 @@
     "type": "xrc20",
     "symbol": "CIOTX",
     "logo": "io1nxetpma4de3wx6tqcgxdtj5wc64a24t64dc76s.png"
+  },
+  "io1hpqrl7ay6zhsusctz2x9260rxhkqp3xf7maaqj": {
+    "name": "CMC Staking",
+    "description": "Exclusive IoTeX Staking NFT earned from iotex.io/start",
+    "logo": "io1hpqrl7ay6zhsusctz2x9260rxhkqp3xf7maaqj.png",
+    "type": "xrc721",
+    "symbol": "CMCS",
+    "image_urls": [
+      "https://ipfs.io/ipfs/bafybeiekvqnjn6cqm4jdiatgnzkoyu2nw4c6s2fadsv4k7wr7vmpgmpik4"
+    ]
   }
 }
