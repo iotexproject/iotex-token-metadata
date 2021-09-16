@@ -315,5 +315,26 @@
     "image_urls": [
       "https://ipfs.io/ipfs/bafybeiekvqnjn6cqm4jdiatgnzkoyu2nw4c6s2fadsv4k7wr7vmpgmpik4"
     ]
+  },
+  "io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln": {
+    "name": "ioUSDT",
+    "decimals": 6,
+    "symbol": "ioUSDT",
+    "type": "xrc20",
+    "logo": "io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln.png"
+  },
+  "io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh": {
+    "name": "ioUSDC",
+    "decimals": 6,
+    "symbol": "ioUSDC",
+    "type": "xrc20",
+    "logo": "io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh.png"
+  },
+  "io1rjadsk4xdleuztwgf3vgrzrwav5urwumaakt0w": {
+    "name": "ioDAI",
+    "decimals": 18,
+    "symbol": "ioDAI",
+    "type": "xrc20",
+    "logo": "io1rjadsk4xdleuztwgf3vgrzrwav5urwumaakt0w.png"
   }
 }
