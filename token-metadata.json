@@ -309,24 +309,31 @@
     ]
   },
   "io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln": {
-    "name": "ioUSDT",
+    "name": "Tether USDT",
     "decimals": 6,
     "symbol": "ioUSDT",
     "type": "xrc20",
     "logo": "io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln.png"
   },
   "io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh": {
-    "name": "ioUSDC",
+    "name": "USD Coin",
     "decimals": 6,
     "symbol": "ioUSDC",
     "type": "xrc20",
     "logo": "io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh.png"
   },
   "io1rjadsk4xdleuztwgf3vgrzrwav5urwumaakt0w": {
-    "name": "ioDAI",
+    "name": "DAI",
     "decimals": 18,
     "symbol": "ioDAI",
     "type": "xrc20",
     "logo": "io1rjadsk4xdleuztwgf3vgrzrwav5urwumaakt0w.png"
+  },
+  "io18lsyxgygtesjggcj2nyqyqzgwxlxsysc9lgmg8": {
+    "name": "MCN.VENTURES",
+    "decimals": 18,
+    "symbol": "MCN",
+    "type": "xrc20",
+    "logo": "io18lsyxgygtesjggcj2nyqyqzgwxlxsysc9lgmg8.png"
   }
 }
