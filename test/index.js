@@ -40,14 +40,14 @@ test("no dup symbols", function (t) {
   t.end();
 });
 
-test("symbols should be six or less characters", function (t) {
+test("symbols should be 15 or less characters", function (t) {
   Object.keys(tokenMetadata).forEach((address) => {
     const contract = tokenMetadata[address];
     const symbol = contract.symbol;
     if (symbol) {
       t.notOk(
-        symbol.length > 6,
-        `symbol with more than 6 characters: "${symbol}"`
+        symbol.length > 15,
+        `symbol with more than 10 characters: "${symbol}"`
       );
     }
   });

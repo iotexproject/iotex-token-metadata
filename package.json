@@ -1,11 +1,12 @@
 {
   "name": "iotex-token-metadata",
-  "version": "1.1.7",
+  "version": "1.3.6",
   "description": "a collection of the metadata of all tokens on IoTeX blockchain.",
   "main": "index.js",
   "scripts": {
     "test": "node test"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iotexproject/iotex-token-metadata.git"
