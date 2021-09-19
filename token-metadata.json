@@ -335,5 +335,15 @@
     "symbol": "MCN",
     "type": "xrc20",
     "logo": "io18lsyxgygtesjggcj2nyqyqzgwxlxsysc9lgmg8.png"
+  },
+  "io1c0gm0sjx7pvmuvp2ssf9drmp0jed2w7xsj47ug": {
+    "name": "Metanyx Official NFT",
+    "description": "Metanyx Official NFT limited to 100",
+    "logo": "io1c0gm0sjx7pvmuvp2ssf9drmp0jed2w7xsj47ug.png",
+    "type": "xrc721",
+    "symbol": "Metanyx",
+    "image_urls": [
+      "https://ipfs.io/ipfs/QmQU9EyJd8UTgTHLAmvMZ4NuPXqHXRuy7EtwQKsXP3ViGW"
+    ]
   }
 }
