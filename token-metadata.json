@@ -2,7 +2,7 @@
   "io1hp6y4eqr90j7tmul4w2wa8pm7wx462hq0mg4tw": {
     "name": "Vitality",
     "description": "Vitality (VITA) is a decentralized token for the IoTeX community.",
-    "logo": "vita.png",
+    "logo": "io1hp6y4eqr90j7tmul4w2wa8pm7wx462hq0mg4tw.png",
     "type": "xrc20",
     "symbol": "VITA",
     "decimals": 18
@@ -10,14 +10,15 @@
   "io1xpvzahnl4h46f9ea6u03ec2hkusrzu020th8xx": {
     "name": "Ucam Pioneer",
     "description": "Ucam Pioneer is a limited edition NFT denoting owners' first adoption of Ucam.",
-    "logo": "ucam_pioneer.png",
+    "logo": "io1xpvzahnl4h46f9ea6u03ec2hkusrzu020th8xx.png",
     "type": "xrc721",
-    "symbol": "UPT"
+    "symbol": "UPT",
+    "image_urls": ["https://iotex.b-cdn.net/ucam/ucam_badge.png"]
   },
   "io1343t63p68pc9h76hmy0azvzy0l9msfetp2at70": {
     "name": "LongZ Card",
     "description": "LongZ Card is a limited edition NFT denoting owners' LongZ community.",
-    "logo": "longz.png",
+    "logo": "io1343t63p68pc9h76hmy0azvzy0l9msfetp2at70.png",
     "type": "xrc721",
     "symbol": "LongZ",
     "image_urls": ["https://i.ibb.co/Yj0594B/logo.png"]
@@ -25,9 +26,61 @@
   "io1350aa78f2h4czfn67e7dajdh7trg3749rp40ne": {
     "name": "Burn-Drop Ignite",
     "description": "Burn-Drop Ignite is a limited edition NFT denoting Burn-Drop Ignite participants.",
-    "logo": "burndrop.png",
+    "logo": "io1350aa78f2h4czfn67e7dajdh7trg3749rp40ne.png",
     "type": "xrc721",
     "symbol": "BDI",
-    "image_urls": ["https://burndrop.iotex.io/img/burndrop_badge.png"]
+    "image_urls": ["https://iotex.b-cdn.net/burndrop/burndrop_badge.png"]
+  },
+  "io1qfvgvmk6lpxkpqwlzanqx4atyzs86ryqjnfuad": {
+    "name": "ioETH",
+    "description": "",
+    "logo": "io1qfvgvmk6lpxkpqwlzanqx4atyzs86ryqjnfuad.png",
+    "type": "xrc20",
+    "symbol": "ioETH",
+    "image_urls": [],
+    "decimals": 18
+  },
+  "io19fsq8e9krrlng4ay5gyq6q5tqfym28yq9ly0fz": {
+    "name": "Paxos Gold",
+    "description": "",
+    "logo": "io19fsq8e9krrlng4ay5gyq6q5tqfym28yq9ly0fz.png",
+    "type": "xrc20",
+    "symbol": "ioPAXG",
+    "image_urls": [],
+    "decimals": 18
+  },
+  "io14nhfkywdfvl40evgsqnh43ev33q6he8yez8c8a": {
+    "name": "Binance USD",
+    "description": "",
+    "logo": "io14nhfkywdfvl40evgsqnh43ev33q6he8yez8c8a.png",
+    "type": "xrc20",
+    "symbol": "ioBUSD",
+    "image_urls": [],
+    "decimals": 18
+  },
+  "io1ahh04jn2zkqlug6feh7rpq75a75p3rj42hp4ch": {
+    "name": "UNISWAP",
+    "description": "",
+    "logo": "io1ahh04jn2zkqlug6feh7rpq75a75p3rj42hp4ch.png",
+    "type": "xrc20",
+    "symbol": "ioUNI",
+    "image_urls": [],
+    "decimals": 18
+  },
+  "io1gafy2msqmmmqyhrhk4dg3ghc59cplyhekyyu26": {
+    "name": "Metanyx",
+    "description": "Metanyx is leading Staking Validator",
+    "logo": "io1gafy2msqmmmqyhrhk4dg3ghc59cplyhekyyu26.png",
+    "type": "xrc20",
+    "symbol": "METX",
+    "decimals": 18
+  },
+  "io1d7zv3k2t2ty3236mup52fv6pvnqu9rwpdkcde6": {
+    "name": "PrivacyMatters",
+    "description": "",
+    "logo": "io1d7zv3k2t2ty3236mup52fv6pvnqu9rwpdkcde6.png",
+    "type": "xrc721",
+    "symbol": "PMT",
+    "image_urls": ["https://iotex.b-cdn.net/tokens/privacyMatters.png"]
   }
 }
