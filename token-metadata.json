@@ -335,5 +335,12 @@
     "symbol": "MCN",
     "type": "xrc20",
     "logo": "io18lsyxgygtesjggcj2nyqyqzgwxlxsysc9lgmg8.png"
+  },
+  "io1fyx0h7decsmr8hw3j6xsv2vkyfl0gw9fcz3hfz": {
+    "name": "iMAGICToken",
+    "decimals": 18,
+    "symbol": "iMAGIC",
+    "type": "xrc20",
+    "logo": "io1fyx0h7decsmr8hw3j6xsv2vkyfl0gw9fcz3hfz.png"
   }
 }
