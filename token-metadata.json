@@ -342,5 +342,12 @@
     "symbol": "iMAGIC",
     "type": "xrc20",
     "logo": "io1fyx0h7decsmr8hw3j6xsv2vkyfl0gw9fcz3hfz.png"
+  },
+  "io1secz5lugnzch9h3ed6esf47czgr3y7g43k5jcv": {
+    "name": "ZOOM TOKEN",
+    "decimals": 18,
+    "symbol": "ZOOM",
+    "type": "xrc20",
+    "logo": "io1secz5lugnzch9h3ed6esf47czgr3y7g43k5jcv.png"
   }
 }
