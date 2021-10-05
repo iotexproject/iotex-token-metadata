@@ -349,5 +349,12 @@
     "symbol": "ZOOM",
     "type": "xrc20",
     "logo": "io1secz5lugnzch9h3ed6esf47czgr3y7g43k5jcv.png"
+  },
+  "io1fzlznshpukgtm7zgzejjnw8qsynuxyzrwv629k": {
+    "name": "CLOUD TOKEN",
+    "decimals": 18,
+    "symbol": "CLOUD",
+    "type": "xrc20",
+    "logo": "io1fzlznshpukgtm7zgzejjnw8qsynuxyzrwv629k.png"
   }
 }
