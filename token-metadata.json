@@ -363,5 +363,13 @@
     "symbol": "FISH",
     "type": "xrc20",
     "logo": "io1wyvvmta30t72xzqe4079u3pgs6x5y2dx8ue25z.png"
+  },
+  "io1zakt2yfmfzzm8gv5h45s26krlcm6fw2unck7a2": {
+    "name": "Parrot Egg",
+    "description": "Turbocharged yield farming experience on the IoTeX network. ",
+    "logo": "io1zakt2yfmfzzm8gv5h45s26krlcm6fw2unck7a2.png",
+    "type": "xrc20",
+    "symbol": "iPEGG",
+    "decimals": 18
   }
 }
