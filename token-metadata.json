@@ -345,5 +345,33 @@
     "image_urls": [
       "https://bafybeiaifztqtdvki7vtapiv75c4lcuejmss52qtcptopmi2xuimcceugm.ipfs.dweb.link?filename=metanyxnft.png"
     ]
+  },
+  "io1fyx0h7decsmr8hw3j6xsv2vkyfl0gw9fcz3hfz": {
+    "name": "iMAGICToken",
+    "decimals": 18,
+    "symbol": "iMAGIC",
+    "type": "xrc20",
+    "logo": "io1fyx0h7decsmr8hw3j6xsv2vkyfl0gw9fcz3hfz.png"
+  },
+  "io1secz5lugnzch9h3ed6esf47czgr3y7g43k5jcv": {
+    "name": "ZOOM TOKEN",
+    "decimals": 18,
+    "symbol": "ZOOM",
+    "type": "xrc20",
+    "logo": "io1secz5lugnzch9h3ed6esf47czgr3y7g43k5jcv.png"
+  },
+  "io1fzlznshpukgtm7zgzejjnw8qsynuxyzrwv629k": {
+    "name": "CLOUD TOKEN",
+    "decimals": 18,
+    "symbol": "CLOUD",
+    "type": "xrc20",
+    "logo": "io1fzlznshpukgtm7zgzejjnw8qsynuxyzrwv629k.png"
+  },
+  "io1wyvvmta30t72xzqe4079u3pgs6x5y2dx8ue25z": {
+    "name": "SEAGULL FINANCE TOKEN",
+    "decimals": 18,
+    "symbol": "FISH",
+    "type": "xrc20",
+    "logo": "io1wyvvmta30t72xzqe4079u3pgs6x5y2dx8ue25z.png"
   }
 }
