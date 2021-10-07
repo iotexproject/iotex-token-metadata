@@ -356,5 +356,12 @@
     "symbol": "CLOUD",
     "type": "xrc20",
     "logo": "io1fzlznshpukgtm7zgzejjnw8qsynuxyzrwv629k.png"
+  },
+  "io1wyvvmta30t72xzqe4079u3pgs6x5y2dx8ue25z": {
+    "name": "SEAGULL FINANCE TOKEN",
+    "decimals": 18,
+    "symbol": "FISH",
+    "type": "xrc20",
+    "logo": "io1wyvvmta30t72xzqe4079u3pgs6x5y2dx8ue25z.png"
   }
 }
