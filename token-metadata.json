@@ -336,6 +336,16 @@
     "type": "xrc20",
     "logo": "io18lsyxgygtesjggcj2nyqyqzgwxlxsysc9lgmg8.png"
   },
+  "io15wrl9ws86vvq2qxz6zal72k8anq8mz8sx8n65h": {
+    "name": "Metanyx - Limited Edition NFT for IoTeX",
+    "description": "Metanyx + IoTeX limited edition NFT, 100 tokens identified by tokenid 1-100, verify with metanyx.nft",
+    "logo": "io15wrl9ws86vvq2qxz6zal72k8anq8mz8sx8n65h.png",
+    "type": "xrc721",
+    "symbol": "Metanyx",
+    "image_urls": [
+      "https://ipfs.io/ipfs/bafybeiaifztqtdvki7vtapiv75c4lcuejmss52qtcptopmi2xuimcceugm?filename=metanyxnft.png"
+    ]
+  },
   "io1fyx0h7decsmr8hw3j6xsv2vkyfl0gw9fcz3hfz": {
     "name": "iMAGICToken",
     "decimals": 18,
