@@ -37,6 +37,16 @@
       "https://cdn.iotex.io/burndrop/burndrop_badge.png"
     ]
   },
+  "io1d4xnudyemu8f7tjtqt8vpzyj3lmc4kvx7fszpn": {
+    "name": "I voted",
+    "description": "I voted NFT for governance proposal and all voters.",
+    "logo": "io1d4xnudyemu8f7tjtqt8vpzyj3lmc4kvx7fszpn.png",
+    "type": "xrc721",
+    "symbol": "IVOTED",
+    "image_urls": [
+      "https://ipfs.io/ipfs/bafkreig5d2el7kz45w5yyuscflyjsxnm5pveadqs5rzfpttm7swnyeapua?filename=ivoted.png"
+    ]
+  },
   "io1qfvgvmk6lpxkpqwlzanqx4atyzs86ryqjnfuad": {
     "name": "ioETH",
     "description": "",
