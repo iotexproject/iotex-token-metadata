@@ -391,5 +391,13 @@
     "type": "xrc20",
     "symbol": "iPEGG",
     "decimals": 18
+  },
+  "io16e77pc9ql4a3thyrfzaehe6z70zc2pz5x60q22": {
+    "name": "WOWSwap",
+    "description": "WOWswap is a decentralized leveraged trading protocol.",
+    "logo": "io16e77pc9ql4a3thyrfzaehe6z70zc2pz5x60q22.png",
+    "decimals": 18,
+    "symbol": "WOW",
+    "type": "xrc20"
   }
 }
