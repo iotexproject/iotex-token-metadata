@@ -399,5 +399,13 @@
     "decimals": 18,
     "symbol": "WOW",
     "type": "xrc20"
+  },
+  "io14v2jxud73eex3armukk2enxrjmezj4rwgdgvla": {
+    "name": "Elrond ",
+    "description": "Elrond is a blockchain protocol that seeks to offer extremely fast transaction speeds by using sharding.",
+    "logo": "io14v2jxud73eex3armukk2enxrjmezj4rwgdgvla.png",
+    "decimals": 18,
+    "symbol": "EGLD",
+    "type": "xrc20"
   }
 }
