@@ -48,11 +48,11 @@
     ]
   },
   "io1qfvgvmk6lpxkpqwlzanqx4atyzs86ryqjnfuad": {
-    "name": "ioETH",
+    "name": "Wrapped Ether",
     "description": "",
     "logo": "io1qfvgvmk6lpxkpqwlzanqx4atyzs86ryqjnfuad.png",
     "type": "xrc20",
-    "symbol": "ioETH",
+    "symbol": "ETH",
     "image_urls": [],
     "decimals": 18
   },
@@ -61,7 +61,7 @@
     "description": "",
     "logo": "io19fsq8e9krrlng4ay5gyq6q5tqfym28yq9ly0fz.png",
     "type": "xrc20",
-    "symbol": "ioPAXG",
+    "symbol": "PAXG",
     "image_urls": [],
     "decimals": 18
   },
@@ -70,7 +70,7 @@
     "description": "",
     "logo": "io14nhfkywdfvl40evgsqnh43ev33q6he8yez8c8a.png",
     "type": "xrc20",
-    "symbol": "ioBUSD",
+    "symbol": "BUSD",
     "image_urls": [],
     "decimals": 18
   },
@@ -79,7 +79,7 @@
     "description": "",
     "logo": "io1c7unwg8h8vph89xwqru4f7zfa4yy5002wxvlrm.png",
     "type": "xrc20",
-    "symbol": "ioWBTC",
+    "symbol": "WBTC",
     "image_urls": [],
     "decimals": 8
   },
@@ -88,7 +88,7 @@
     "description": "",
     "logo": "io1ahh04jn2zkqlug6feh7rpq75a75p3rj42hp4ch.png",
     "type": "xrc20",
-    "symbol": "ioUNI",
+    "symbol": "UNI",
     "image_urls": [],
     "decimals": 18
   },
@@ -185,15 +185,15 @@
     "description": "",
     "logo": "io1jlnvfzr8lhper2xla8gknmxsqhgajq5ravu4wr.png",
     "type": "xrc20",
-    "symbol": "BNB-bsc",
+    "symbol": "BNB",
     "decimals": 18
   },
   "io1sj4uk2pjhesxxsd9qy52avwmgw4qzazfrypm04": {
-    "name": "BUSD",
+    "name": "Binance USD",
     "description": "",
     "logo": "io1sj4uk2pjhesxxsd9qy52avwmgw4qzazfrypm04.png",
     "type": "xrc20",
-    "symbol": "BUSD-bsc",
+    "symbol": "BUSD_b",
     "decimals": 18
   },
   "io18d6759s7k4pgw842844vf9uktrcvfjdwekw9ea": {
@@ -229,7 +229,7 @@
     "decimals": 18
   },
   "io13envp44hps9j85ulfvs6r6k99wagaky60pzl2c": {
-    "name": "WMatic",
+    "name": "Wrapped Matic",
     "description": "Wrapped Matic Token",
     "logo": "io13envp44hps9j85ulfvs6r6k99wagaky60pzl2c.png",
     "type": "xrc20",
@@ -241,15 +241,15 @@
     "description": "Matic Wrapped Ether",
     "logo": "io1v5m9d7zrs852xkdzdresqf3phwc5cchc5crylc.png",
     "type": "xrc20",
-    "symbol": "WETH-matic",
+    "symbol": "WETH_m",
     "decimals": 18
   },
   "io10u9dv0ys93nmr7smzyptpkhlhzylt4wtqzrvld": {
-    "name": "WBTC-MATIC",
+    "name": "Matic Wrapped BTC",
     "description": "Matic Wrapped BTC",
     "logo": "io10u9dv0ys93nmr7smzyptpkhlhzylt4wtqzrvld.png",
     "type": "xrc20",
-    "symbol": "WBTC-matic",
+    "symbol": "WBTC_m",
     "decimals": 8
   },
   "io1v25anp7t7nz954gdam2m27eqp4arr93jly4maa": {
@@ -257,7 +257,7 @@
     "description": "Matic DAI Stablecoin",
     "logo": "io1v25anp7t7nz954gdam2m27eqp4arr93jly4maa.png",
     "type": "xrc20",
-    "symbol": "DAI-matic",
+    "symbol": "DAI_m",
     "decimals": 18
   },
   "io18ndhcj88pwz5a5h68yhzz6r4q8vykwhugq45ns": {
@@ -265,7 +265,7 @@
     "description": "Matic Tether USD",
     "logo": "io18ndhcj88pwz5a5h68yhzz6r4q8vykwhugq45ns.png",
     "type": "xrc20",
-    "symbol": "USDT-matic",
+    "symbol": "USDT_m",
     "decimals": 6
   },
   "io1cpx682vazuf4s4amjd7jlwejr5akc65plgmdru": {
@@ -273,7 +273,7 @@
     "description": "Matic USD Coin",
     "logo": "io1cpx682vazuf4s4amjd7jlwejr5akc65plgmdru.png",
     "type": "xrc20",
-    "symbol": "USDC-matic",
+    "symbol": "USDC_m",
     "decimals": 6
   },
   "io1990thrrc9cvxhjmsmx5pysznqs734h6uhxfxkq": {
@@ -281,7 +281,7 @@
     "description": "SushiToken",
     "logo": "io1990thrrc9cvxhjmsmx5pysznqs734h6uhxfxkq.png",
     "type": "xrc20",
-    "symbol": "Sushi-matic",
+    "symbol": "Sushi_m",
     "decimals": 18
   },
   "io1u346nz58mj5cjuj7ng3cn96upwam37v9axtju2": {
@@ -289,7 +289,7 @@
     "description": "Matic Quickswap token",
     "logo": "io1u346nz58mj5cjuj7ng3cn96upwam37v9axtju2.png",
     "type": "xrc20",
-    "symbol": "QUICK-matic",
+    "symbol": "QUICK",
     "decimals": 18
   },
   "io14tw8gyn3p8v5fcmvh4c0w8797ryjrlrvnsr6zf": {
@@ -297,7 +297,7 @@
     "description": "Matic Aava token",
     "logo": "io14tw8gyn3p8v5fcmvh4c0w8797ryjrlrvnsr6zf.png",
     "type": "xrc20",
-    "symbol": "AAVE-matic",
+    "symbol": "AAVE_m",
     "decimals": 18
   },
   "io1nxetpma4de3wx6tqcgxdtj5wc64a24t64dc76s": {
@@ -321,21 +321,21 @@
   "io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln": {
     "name": "Tether USDT",
     "decimals": 6,
-    "symbol": "ioUSDT",
+    "symbol": "USDT",
     "type": "xrc20",
     "logo": "io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln.png"
   },
   "io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh": {
     "name": "USD Coin",
     "decimals": 6,
-    "symbol": "ioUSDC",
+    "symbol": "USDC",
     "type": "xrc20",
     "logo": "io18v4l9dfr74xyu320pz4zsmgrz9d07vnvy20yrh.png"
   },
   "io1rjadsk4xdleuztwgf3vgrzrwav5urwumaakt0w": {
     "name": "DAI",
     "decimals": 18,
-    "symbol": "ioDAI",
+    "symbol": "DAI",
     "type": "xrc20",
     "logo": "io1rjadsk4xdleuztwgf3vgrzrwav5urwumaakt0w.png"
   },
