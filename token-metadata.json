@@ -399,5 +399,19 @@
     "decimals": 18,
     "symbol": "WOW",
     "type": "xrc20"
+  },
+  "io1gtyj2h272ghg8vtw5ydrhgzv95a0egre4zemtf": {
+    "name": "BSC Tether USD",
+    "description": "BSC Tether USD",
+    "decimals": 18,
+    "symbol": "USDT_b",
+    "type": "xrc20"
+  },
+  "io1qde5ded9wg540tpv4dkwhrr5lsvva2ga3hf6ry": {
+    "name": "BSC USD Coin",
+    "decimals": 18,
+    "symbol": "USDC_b",
+    "type": "xrc20",
+    "description": "BSC USD Coin"
   }
 }
