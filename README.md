@@ -33,6 +33,7 @@ Please notice that maintaining this list **is not our highest priority**. We do 
 
 You can follow the steps below to submit your token metadata for review:
 
+0. verify your token smart contract here: https://iotexscout.io/verifyContract.
 1. fork this repo
 2. add your token logo to the `images/` folder
 3. add your metadata to `token-metadata.json`
