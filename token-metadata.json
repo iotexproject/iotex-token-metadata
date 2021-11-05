@@ -404,11 +404,11 @@
     "description": "BSC USD Coin",
     "logo": "io1qde5ded9wg540tpv4dkwhrr5lsvva2ga3hf6ry.png"
   },
-  "io13ghl60j6flune45d634an0mgupk7zxdhx223g0": {
+  "io1lpaw6pygngwaq9vans3tp4tmx3dtzmwa38cf2d": {
     "name": "ZoomSwapV2",
     "decimals": 18,
     "symbol": "ZM",
     "type": "xrc20",
-    "logo": "io13ghl60j6flune45d634an0mgupk7zxdhx223g0.png"
+    "logo": "io1lpaw6pygngwaq9vans3tp4tmx3dtzmwa38cf2d.png"
   }
 }
