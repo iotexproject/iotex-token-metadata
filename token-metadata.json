@@ -13,9 +13,7 @@
     "logo": "io1xpvzahnl4h46f9ea6u03ec2hkusrzu020th8xx.png",
     "type": "xrc721",
     "symbol": "UPT",
-    "image_urls": [
-      "https://cdn.iotex.io/ucam/ucam_badge.png"
-    ]
+    "image_urls": ["https://cdn.iotex.io/ucam/ucam_badge.png"]
   },
   "io1343t63p68pc9h76hmy0azvzy0l9msfetp2at70": {
     "name": "LongZ Card",
@@ -23,9 +21,7 @@
     "logo": "io1343t63p68pc9h76hmy0azvzy0l9msfetp2at70.png",
     "type": "xrc721",
     "symbol": "LongZ",
-    "image_urls": [
-      "https://i.ibb.co/Yj0594B/logo.png"
-    ]
+    "image_urls": ["https://i.ibb.co/Yj0594B/logo.png"]
   },
   "io1350aa78f2h4czfn67e7dajdh7trg3749rp40ne": {
     "name": "Burn-Drop Ignite",
@@ -33,9 +29,7 @@
     "logo": "io1350aa78f2h4czfn67e7dajdh7trg3749rp40ne.png",
     "type": "xrc721",
     "symbol": "BDI",
-    "image_urls": [
-      "https://cdn.iotex.io/burndrop/burndrop_badge.png"
-    ]
+    "image_urls": ["https://cdn.iotex.io/burndrop/burndrop_badge.png"]
   },
   "io1d4xnudyemu8f7tjtqt8vpzyj3lmc4kvx7fszpn": {
     "name": "I voted",
@@ -122,9 +116,7 @@
     "logo": "io1d7zv3k2t2ty3236mup52fv6pvnqu9rwpdkcde6.png",
     "type": "xrc721",
     "symbol": "PMT",
-    "image_urls": [
-      "https://cdn.iotex.io/tokens/privacyMatters.png"
-    ]
+    "image_urls": ["https://cdn.iotex.io/tokens/privacyMatters.png"]
   },
   "io14ky4h2u6ahq9vprrrt9u62fszzkwu2tz04mf03": {
     "name": "GameFantasyCat",
@@ -158,9 +150,7 @@
     "logo": "io1xge7h37n7xhrvjakutc476amn030fdcucyvu4r.png",
     "type": "xrc721",
     "symbol": "ITW",
-    "image_urls": [
-      "https://cdn.iotex.io/tokens/nft_ideathon_winner.png"
-    ]
+    "image_urls": ["https://cdn.iotex.io/tokens/nft_ideathon_winner.png"]
   },
   "io1qqhzumd747f39f7zfen4f6ulyxhl774tknf778": {
     "name": "Idea-Thon",
@@ -168,9 +158,7 @@
     "logo": "io1qqhzumd747f39f7zfen4f6ulyxhl774tknf778.png",
     "type": "xrc721",
     "symbol": "ITP",
-    "image_urls": [
-      "https://cdn.iotex.io/tokens/nft_ideathon.png"
-    ]
+    "image_urls": ["https://cdn.iotex.io/tokens/nft_ideathon.png"]
   },
   "io1j9u0fmy20lm0uz8gfrh2c0wmuxjl43cdmgva4a": {
     "name": "UP",
@@ -415,5 +403,12 @@
     "type": "xrc20",
     "description": "BSC USD Coin",
     "logo": "io1qde5ded9wg540tpv4dkwhrr5lsvva2ga3hf6ry.png"
+  },
+  "io13ghl60j6flune45d634an0mgupk7zxdhx223g0": {
+    "name": "ZoomSwapV2",
+    "decimals": 18,
+    "symbol": "ZM",
+    "type": "xrc20",
+    "logo": "io13ghl60j6flune45d634an0mgupk7zxdhx223g0.png"
   }
 }
