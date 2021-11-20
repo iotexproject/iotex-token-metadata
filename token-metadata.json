@@ -429,5 +429,12 @@
     "symbol": "MAX",
     "type": "xrc20",
     "logo": "io1u3wetfnvla4tt6dhjm845dhsv6d08mycve0w0r.png"
-  }
+  },
+   "io1mx3khzz8hk5237clhuw3tdjwtmgtxnpj33dfeq": {
+    "name": "IOTEX BULL",
+    "description": "Governance token of IoBull Swap decentralised exchange,AMM and Farm",
+    "decimals": 18,
+    "symbol": "IoBULL",
+    "type": "xrc20",
+    "logo": "io1mx3khzz8hk5237clhuw3tdjwtmgtxnpj33dfeq.png"
 }
