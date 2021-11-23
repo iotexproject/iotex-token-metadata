@@ -13,7 +13,7 @@
     "logo": "io186ngxd2tlrf4nnv7cmsgkkhv9ywhrkyq8rejue.png",
     "type": "xrc20",
     "symbol": "IoShib",
-    "decimals": 18
+    "decimals": 9
   },
   "io1swzq8crn57t3ngyj0gtxgt98mnwxg274knr566": {
     "name": "Shibex",
