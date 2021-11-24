@@ -429,5 +429,13 @@
     "symbol": "MAX",
     "type": "xrc20",
     "logo": "io1u3wetfnvla4tt6dhjm845dhsv6d08mycve0w0r.png"
+  },
+  "io1p3dtqfkhf3z3xa4y0xp59f595r5e5klwwnrex7": {
+    "name": "MachineFi NFT",
+    "description": "",
+    "logo": "io1p3dtqfkhf3z3xa4y0xp59f595r5e5klwwnrex7.png",
+    "type": "xrc721",
+    "symbol": "MFI",
+    "image_urls": ["https://machinefi.com/nft/image/0"]
   }
 }
