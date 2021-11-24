@@ -7,6 +7,14 @@
     "symbol": "VITA",
     "decimals": 18
   },
+  "io186ngxd2tlrf4nnv7cmsgkkhv9ywhrkyq8rejue": {
+    "name": "IoTexShiba",
+    "description": "The first and fairest meme token on IoTex with great passive income rewards for holders.",
+    "logo": "io186ngxd2tlrf4nnv7cmsgkkhv9ywhrkyq8rejue.png",
+    "type": "xrc20",
+    "symbol": "IoShib",
+    "decimals": 9
+  },
   "io1swzq8crn57t3ngyj0gtxgt98mnwxg274knr566": {
     "name": "Shibex",
     "description": "A Decentralized Meme Token that Evolved into the amazing IoTex Ecosystem.",
