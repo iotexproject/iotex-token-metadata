@@ -447,3 +447,11 @@
     "image_urls": ["https://machinefi.com/nft/image/0"]
   }
 }
+  "io1c9rlm0jd6y882rej85kzx8z0hym5gx9c5ymfv2": {
+    "name": "IoTexSHIBA",
+    "description": "IoTexSHIBA（ISHIB） is the first IOTX to burn meme tokens.",
+    "logo": "io1c9rlm0jd6y882rej85kzx8z0hym5gx9c5ymfv2.png",
+    "type": "xrc20",
+    "symbol": "ISHIB",
+    "decimals": 18
+  }
