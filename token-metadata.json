@@ -445,5 +445,15 @@
     "type": "xrc721",
     "symbol": "MFI",
     "image_urls": ["https://machinefi.com/nft/image/0"]
+  },
+  "io1zrllqprztkalgvmfa36ehctg3n5v6j6vv2avef": {
+    "name": "Merdmaid",
+    "description": "The Most Sought After Multi-Network Yield Farm in the Decentralized Exchange on Iotex !!!",
+    "decimals":18,
+    "logo": "io1zrllqprztkalgvmfa36ehctg3n5v6j6vv2avef.png",
+    "type": "xrc20",
+    "symbol": "MERD",
+    "image_urls": ["https://ibb.co/JRr7MLs"]
   }
+
 }
