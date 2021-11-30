@@ -447,11 +447,11 @@
     "image_urls": ["https://machinefi.com/nft/image/0"]
   },
   "io1p00c9unkxz0zal2fglhguz3y3vnjd6xlx24h8m": {
-    "name": "BSC The Force Token",
-    "description": "BSC The Force Token",
+    "name": "The Force Token",
+    "description": "The Force Token",
     "logo": "io1p00c9unkxz0zal2fglhguz3y3vnjd6xlx24h8m.png",
     "type": "xrc20",
     "decimals": 18,
-    "symbol": "FOR_b"
+    "symbol": "FOR"
   }
 }
