@@ -446,6 +446,7 @@
     "symbol": "MFI",
     "image_urls": ["https://machinefi.com/nft/image/0"]
   },
+  
   "io1zrllqprztkalgvmfa36ehctg3n5v6j6vv2avef": {
     "name": "Merdmaid",
     "description": "The Most Sought After Multi-Network Yield Farm in the Decentralized Exchange on Iotex !!!",
@@ -454,6 +455,15 @@
     "type": "xrc20",
     "symbol": "MERD",
     "image_urls": ["https://ibb.co/JRr7MLs"]
+},
+  "io1p00c9unkxz0zal2fglhguz3y3vnjd6xlx24h8m": {
+    "name": "The Force Token",
+    "description": "The Force Token",
+    "logo": "io1p00c9unkxz0zal2fglhguz3y3vnjd6xlx24h8m.png",
+    "type": "xrc20",
+    "decimals": 18,
+    "symbol": "FOR"
+
   }
 
 }
