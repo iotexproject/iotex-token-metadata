@@ -445,5 +445,13 @@
     "type": "xrc721",
     "symbol": "MFI",
     "image_urls": ["https://machinefi.com/nft/image/0"]
+  },
+  "io1p00c9unkxz0zal2fglhguz3y3vnjd6xlx24h8m": {
+    "name": "The Force Token",
+    "description": "The Force Token",
+    "logo": "io1p00c9unkxz0zal2fglhguz3y3vnjd6xlx24h8m.png",
+    "type": "xrc20",
+    "decimals": 18,
+    "symbol": "FOR"
   }
 }
