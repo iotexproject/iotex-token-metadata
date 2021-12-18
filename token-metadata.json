@@ -7,6 +7,14 @@
     "symbol": "VITA",
     "decimals": 18
   },
+    "io1qjv68myk2ymtagq7gdgpzw3pq4ey0pwuu8z7pj": {
+    "name": "IotexPad",
+    "description": "IotexPad (TEX) is the first launchpad and incubator built on IoTeX for the IoTex Community.",
+    "logo": "io1qjv68myk2ymtagq7gdgpzw3pq4ey0pwuu8z7pj.png",
+    "type": "xrc20",
+    "symbol": "TEX",
+    "decimals": 18
+  },
   "io186ngxd2tlrf4nnv7cmsgkkhv9ywhrkyq8rejue": {
     "name": "IoTexShiba",
     "description": "The first and fairest meme token on IoTex with great passive income rewards for holders.",
