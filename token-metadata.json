@@ -415,6 +415,14 @@
     "symbol": "WOW",
     "type": "xrc20"
   },
+  "io1utesqpjur6lu9059wndgqc7aqususk3n68709k": {
+    "name": "IOTEXCHART",
+    "description": "IOTEXCHART is the genesis chart platform for the IOTEX blockchain.",
+    "logo": "iotexchart.png",
+    "decimals": 18,
+    "symbol": "IOTEXCHART",
+    "type": "xrc20"
+  },
   "io1gtyj2h272ghg8vtw5ydrhgzv95a0egre4zemtf": {
     "name": "BSC Tether USD",
     "description": "BSC Tether USD",
