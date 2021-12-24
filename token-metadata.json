@@ -469,5 +469,21 @@
     "symbol": "XIM",
     "type": "xrc20",
     "logo": "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu.png"
+  },
+  "io1ex2s5f8f3d7hruzktslpqpywt78vgvzsx384dw": {
+    "name": "Blade Warrior",
+    "description": "Blade Warrior is an open blockchain game ecosystem. The team comes from well-known 3A game development companies and well-known international blockchain organizations.",
+    "decimals": 18,
+    "symbol": "Blade",
+    "type": "xrc20",
+    "logo": "io1ex2s5f8f3d7hruzktslpqpywt78vgvzsx384dw.png"
+  },
+  "io109mf3ua2tfkm2lkzq432hu03ys7vuv4d5m40gk": {
+    "name": "Blade EGG",
+    "description": "Blade Warrior is an open blockchain game ecosystem. The team comes from well-known 3A game development companies and well-known international blockchain organizations.",
+    "decimals": 18,
+    "symbol": "EGG",
+    "type": "xrc20",
+    "logo": "io109mf3ua2tfkm2lkzq432hu03ys7vuv4d5m40gk.png"
   }
 }
