@@ -501,5 +501,13 @@
     "type": "xrc721",
     "symbol": "NBLW",
     "image_urls": ["https://www.blade.game/image/logo.png"]
+   },
+  "io1xgy9hr4g23ffz79apa8f95lay3668g2e57h6j2": {
+    "name": "FilDA",
+    "description": "FilDA is a secure decentralized digital asset bank.",
+    "decimals": 18,
+    "symbol": "FILDA",
+    "type": "xrc20",
+    "logo": "io1xgy9hr4g23ffz79apa8f95lay3668g2e57h6j2.png"
   }
 }
