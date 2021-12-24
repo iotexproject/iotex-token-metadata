@@ -485,5 +485,21 @@
     "symbol": "EGG",
     "type": "xrc20",
     "logo": "io109mf3ua2tfkm2lkzq432hu03ys7vuv4d5m40gk.png"
+  },
+  "io18n9gze9dhapgml4jjtpdrmycq0m8e8kmden7fl": {
+    "name": "Blade Character",
+    "description": "Blade Warrior is an open blockchain game ecosystem. The team comes from well-known 3A game development companies and well-known international blockchain organizations.",
+    "logo": "io18n9gze9dhapgml4jjtpdrmycq0m8e8kmden7fl.png",
+    "type": "xrc721",
+    "symbol": "NBLC",
+    "image_urls": ["https://www.blade.game/image/logo.png"]
+  }
+  "io1nasw2uce050w7d5mz4005hcy3kx4zz2zhewav6": {
+    "name": "Blade Weapon",
+    "description": "Blade Warrior is an open blockchain game ecosystem. The team comes from well-known 3A game development companies and well-known international blockchain organizations.",
+    "logo": "io1nasw2uce050w7d5mz4005hcy3kx4zz2zhewav6.png",
+    "type": "xrc721",
+    "symbol": "NBLW",
+    "image_urls": ["https://www.blade.game/image/logo.png"]
   }
 }
