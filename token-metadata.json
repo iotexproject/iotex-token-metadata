@@ -469,5 +469,11 @@
     "symbol": "XIM",
     "type": "xrc20",
     "logo": "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu.png"
-  }
-}
+  },
+  "io1xgy9hr4g23ffz79apa8f95lay3668g2e57h6j2": {
+    "name": "FilDA",
+    "description": "FilDA is a secure decentralized digital asset bank.",
+    "decimals": 18,
+    "symbol": FILDA",
+    "type": "xrc20",
+    "logo": "io1xgy9hr4g23ffz79apa8f95lay3668g2e57h6j2.png"
