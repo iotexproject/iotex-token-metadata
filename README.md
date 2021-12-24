@@ -85,3 +85,12 @@ $ npm login
 // update package.json version
 $ npm publish .
 ```
+
+
+## How to unit test
+```
+npm ci
+npm test
+```
+Please make sure the unit test is passed before submitting a PR.
+
