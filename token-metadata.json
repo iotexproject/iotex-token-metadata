@@ -477,5 +477,13 @@
     "symbol": "FILDA",
     "type": "xrc20",
     "logo": "io1xgy9hr4g23ffz79apa8f95lay3668g2e57h6j2.png"
+  },
+  "io1etcq5krprmxnqg9jqxzfefm2xmyx8gq5p20lwg": {
+    "name": "BOT",
+    "description": "Multichain ecosystem built under the UX of an NFT-based Play-To-Earn game. Unique wallet with a built in NFT Marketplace, DEX, seasonal NFT and Token AirDrops & game-based Multifunctional messenger.",
+    "decimals": 18,
+    "symbol": "BOT",
+    "type": "xrc20",
+    "logo": "io1etcq5krprmxnqg9jqxzfefm2xmyx8gq5p20lwg.png"
   }
 }
