@@ -469,5 +469,13 @@
     "symbol": "XIM",
     "type": "xrc20",
     "logo": "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu.png"
+  },
+  "io1etcq5krprmxnqg9jqxzfefm2xmyx8gq5p20lwg": {
+    "name": "BOT",
+    "description": "Multichain ecosystem built under the UX of an NFT-based Play-To-Earn game. Unique wallet with a built in NFT Marketplace, DEX, seasonal NFT and Token AirDrops & game-based Multifunctional messenger.",
+    "decimals": 18,
+    "symbol": "BOT",
+    "type": "xrc20",
+    "logo": "io1etcq5krprmxnqg9jqxzfefm2xmyx8gq5p20lwg.png"
   }
 }
