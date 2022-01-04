@@ -493,5 +493,13 @@
     "symbol": "BOT",
     "type": "xrc20",
     "logo": "io1etcq5krprmxnqg9jqxzfefm2xmyx8gq5p20lwg.png"
+  },
+  "io1cx6cvg9dswfc83nzhl5qmdz3gdzda3khtt6asw": {
+    "name": "BioShib",
+    "description": "BioShib",
+    "logo": "io186ngxd2tlrf4nnv7cmsgkkhv9ywhrkyq8rejue.png",
+    "type": "xrc20",
+    "symbol": "bioShib",
+    "decimals": 18
   }
 }
