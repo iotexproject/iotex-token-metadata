@@ -7,6 +7,14 @@
     "symbol": "VITA",
     "decimals": 18
   },
+    "io1qjv68myk2ymtagq7gdgpzw3pq4ey0pwuu8z7pj": {
+    "name": "IotexPad",
+    "description": "IotexPad (TEX) is the first launchpad and incubator built on IoTeX for the IoTex Community.",
+    "logo": "io1qjv68myk2ymtagq7gdgpzw3pq4ey0pwuu8z7pj.png",
+    "type": "xrc20",
+    "symbol": "TEX",
+    "decimals": 18
+  },
   "io186ngxd2tlrf4nnv7cmsgkkhv9ywhrkyq8rejue": {
     "name": "IoTexShiba",
     "description": "The first and fairest meme token on IoTex with great passive income rewards for holders.",
@@ -407,6 +415,14 @@
     "symbol": "WOW",
     "type": "xrc20"
   },
+  "io1utesqpjur6lu9059wndgqc7aqususk3n68709k": {
+    "name": "IOTEXCHART",
+    "description": "IOTEXCHART is the genesis chart platform for the IOTEX blockchain.",
+    "logo": "iotexchart.png",
+    "decimals": 18,
+    "symbol": "IOTEXCHART",
+    "type": "xrc20"
+  },
   "io1gtyj2h272ghg8vtw5ydrhgzv95a0egre4zemtf": {
     "name": "BSC Tether USD",
     "description": "BSC Tether USD",
@@ -454,6 +470,7 @@
     "decimals": 18,
     "symbol": "FOR"
   },
+
   "io1zrllqprztkalgvmfa36ehctg3n5v6j6vv2avef": {
     "name": "MermaidSwap",
     "description": "The Most Sought After Multi-Network Yield Farm in the Decentralized Exchange! NFTs, Vaults on Iotex, BSC, Avalanche",
@@ -462,5 +479,38 @@
     "decimals": 18,
     "symbol": "MERD",
     "image_urls":["https://ibb.co/BjQxqfk"]
+  },
+
+  "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu": {
+    "name": "xDollar Interverse Money",
+    "description": "xDollar Finance, the decentralized 0% interest rate lending protocol of xDollar Interverse Money.",
+    "decimals": 18,
+    "symbol": "XIM",
+    "type": "xrc20",
+    "logo": "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu.png"
+   },
+  "io1xgy9hr4g23ffz79apa8f95lay3668g2e57h6j2": {
+    "name": "FilDA",
+    "description": "FilDA is a secure decentralized digital asset bank.",
+    "decimals": 18,
+    "symbol": "FILDA",
+    "type": "xrc20",
+    "logo": "io1xgy9hr4g23ffz79apa8f95lay3668g2e57h6j2.png"
+  },
+  "io1etcq5krprmxnqg9jqxzfefm2xmyx8gq5p20lwg": {
+    "name": "BOT",
+    "description": "Multichain ecosystem built under the UX of an NFT-based Play-To-Earn game. Unique wallet with a built in NFT Marketplace, DEX, seasonal NFT and Token AirDrops & game-based Multifunctional messenger.",
+    "decimals": 18,
+    "symbol": "BOT",
+    "type": "xrc20",
+    "logo": "io1etcq5krprmxnqg9jqxzfefm2xmyx8gq5p20lwg.png"
+  },
+  "io1cx6cvg9dswfc83nzhl5qmdz3gdzda3khtt6asw": {
+    "name": "BioShib",
+    "description": "BioShib",
+    "logo": "io186ngxd2tlrf4nnv7cmsgkkhv9ywhrkyq8rejue.png",
+    "type": "xrc20",
+    "symbol": "bioShib",
+    "decimals": 18
   }
 }
