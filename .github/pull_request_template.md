@@ -1,5 +1,7 @@
 <!-- Please add a link to the official website. -->
 
+## Token Information
+
 - **Project official website**: https://...
 
 <!-- Make sure the website includes: 
@@ -11,6 +13,13 @@
 <!-- If available, please add links to social channels -->
 
 - **Project official social**: https://...
+
+## Verification of Token
+
+- [ ] verify of your token smart contract on iotexscan.
+- [ ] add your token address to your website and list here: https:// 
+
+
 
 <!-- Disclaimer
 We will only take into consideration projects that show clear signs of activity: 
