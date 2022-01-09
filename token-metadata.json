@@ -7,6 +7,14 @@
     "symbol": "VITA",
     "decimals": 18
   },
+  "io1u88pcraz9mrf8wk2dag8d0xuf5qc8hsuxt9s9a": {
+  "name": "IotexPad",
+  "description": "ELK is a utility token built for cross-chain value transfer using the ElkNet at Elk.Finance",
+  "logo": "io1u88pcraz9mrf8wk2dag8d0xuf5qc8hsuxt9s9a.png",
+  "type": "xrc20",
+  "symbol": "ELK",
+  "decimals": 18
+  },
     "io1qjv68myk2ymtagq7gdgpzw3pq4ey0pwuu8z7pj": {
     "name": "IotexPad",
     "description": "IotexPad (TEX) is the first launchpad and incubator built on IoTeX for the IoTex Community.",
