@@ -8,14 +8,14 @@
     "decimals": 18
   },
   "io1u88pcraz9mrf8wk2dag8d0xuf5qc8hsuxt9s9a": {
-  "name": "Elk Token",
-  "description": "ELK is a utility token built for cross-chain value transfer using the ElkNet at Elk.Finance",
-  "logo": "io1u88pcraz9mrf8wk2dag8d0xuf5qc8hsuxt9s9a.png",
-  "type": "xrc20",
-  "symbol": "ELK",
-  "decimals": 18
+    "name": "Elk Token",
+    "description": "ELK is a utility token built for cross-chain value transfer using the ElkNet at Elk.Finance",
+    "logo": "io1u88pcraz9mrf8wk2dag8d0xuf5qc8hsuxt9s9a.png",
+    "type": "xrc20",
+    "symbol": "ELK",
+    "decimals": 18
   },
-    "io1qjv68myk2ymtagq7gdgpzw3pq4ey0pwuu8z7pj": {
+  "io1qjv68myk2ymtagq7gdgpzw3pq4ey0pwuu8z7pj": {
     "name": "IotexPad",
     "description": "IotexPad (TEX) is the first launchpad and incubator built on IoTeX for the IoTex Community.",
     "logo": "io1qjv68myk2ymtagq7gdgpzw3pq4ey0pwuu8z7pj.png",
@@ -34,7 +34,7 @@
   "io1swzq8crn57t3ngyj0gtxgt98mnwxg274knr566": {
     "name": "Shibex",
     "description": "A Decentralized Meme Token that Evolved into the amazing IoTex Ecosystem.",
-    "logo": "io1swzq8crn57t3ngyj0gtxgt98mnwxg274knr566.jpg",
+    "logo": "io1swzq8crn57t3ngyj0gtxgt98mnwxg274knr566.png",
     "type": "xrc20",
     "symbol": "SHIBX",
     "decimals": 18,
@@ -517,7 +517,7 @@
     "type": "xrc721",
     "symbol": "NBLW",
     "image_urls": ["https://www.blade.game/image/logo.png"]
-   },
+  },
   "io1xgy9hr4g23ffz79apa8f95lay3668g2e57h6j2": {
     "name": "FilDA",
     "description": "FilDA is a secure decentralized digital asset bank.",
