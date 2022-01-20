@@ -15,7 +15,15 @@
     "symbol": "VITA",
     "decimals": 18
   },
-    "io1qjv68myk2ymtagq7gdgpzw3pq4ey0pwuu8z7pj": {
+  "io1u88pcraz9mrf8wk2dag8d0xuf5qc8hsuxt9s9a": {
+    "name": "Elk Token",
+    "description": "ELK is a utility token built for cross-chain value transfer using the ElkNet at Elk.Finance",
+    "logo": "io1u88pcraz9mrf8wk2dag8d0xuf5qc8hsuxt9s9a.png",
+    "type": "xrc20",
+    "symbol": "ELK",
+    "decimals": 18
+  },
+  "io1qjv68myk2ymtagq7gdgpzw3pq4ey0pwuu8z7pj": {
     "name": "IotexPad",
     "description": "IotexPad (TEX) is the first launchpad and incubator built on IoTeX for the IoTex Community.",
     "logo": "io1qjv68myk2ymtagq7gdgpzw3pq4ey0pwuu8z7pj.png",
@@ -34,7 +42,7 @@
   "io1swzq8crn57t3ngyj0gtxgt98mnwxg274knr566": {
     "name": "Shibex",
     "description": "A Decentralized Meme Token that Evolved into the amazing IoTex Ecosystem.",
-    "logo": "io1swzq8crn57t3ngyj0gtxgt98mnwxg274knr566.jpg",
+    "logo": "io1swzq8crn57t3ngyj0gtxgt98mnwxg274knr566.png",
     "type": "xrc20",
     "symbol": "SHIBX",
     "decimals": 18,
@@ -423,6 +431,14 @@
     "symbol": "WOW",
     "type": "xrc20"
   },
+  "io1utesqpjur6lu9059wndgqc7aqususk3n68709k": {
+    "name": "IOTEXCHART",
+    "description": "IOTEXCHART is the genesis chart platform for the IOTEX blockchain.",
+    "logo": "iotexchart.png",
+    "decimals": 18,
+    "symbol": "IOTEXCHART",
+    "type": "xrc20"
+  },
   "io1gtyj2h272ghg8vtw5ydrhgzv95a0egre4zemtf": {
     "name": "BSC Tether USD",
     "description": "BSC Tether USD",
@@ -477,7 +493,39 @@
     "symbol": "XIM",
     "type": "xrc20",
     "logo": "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu.png"
-   },
+  },
+  "io1ex2s5f8f3d7hruzktslpqpywt78vgvzsx384dw": {
+    "name": "Blade Warrior",
+    "description": "Blade Warrior is an open blockchain game ecosystem. The team comes from well-known 3A game development companies and well-known international blockchain organizations.",
+    "decimals": 18,
+    "symbol": "Blade",
+    "type": "xrc20",
+    "logo": "io1ex2s5f8f3d7hruzktslpqpywt78vgvzsx384dw.png"
+  },
+  "io109mf3ua2tfkm2lkzq432hu03ys7vuv4d5m40gk": {
+    "name": "Blade EGG",
+    "description": "Blade Warrior is an open blockchain game ecosystem. The team comes from well-known 3A game development companies and well-known international blockchain organizations.",
+    "decimals": 18,
+    "symbol": "EGG",
+    "type": "xrc20",
+    "logo": "io109mf3ua2tfkm2lkzq432hu03ys7vuv4d5m40gk.png"
+  },
+  "io18n9gze9dhapgml4jjtpdrmycq0m8e8kmden7fl": {
+    "name": "Blade Character",
+    "description": "Blade Warrior is an open blockchain game ecosystem. The team comes from well-known 3A game development companies and well-known international blockchain organizations.",
+    "logo": "io18n9gze9dhapgml4jjtpdrmycq0m8e8kmden7fl.png",
+    "type": "xrc721",
+    "symbol": "NBLC",
+    "image_urls": ["https://www.blade.game/image/logo.png"]
+  },
+  "io1nasw2uce050w7d5mz4005hcy3kx4zz2zhewav6": {
+    "name": "Blade Weapon",
+    "description": "Blade Warrior is an open blockchain game ecosystem. The team comes from well-known 3A game development companies and well-known international blockchain organizations.",
+    "logo": "io1nasw2uce050w7d5mz4005hcy3kx4zz2zhewav6.png",
+    "type": "xrc721",
+    "symbol": "NBLW",
+    "image_urls": ["https://www.blade.game/image/logo.png"]
+  },
   "io1xgy9hr4g23ffz79apa8f95lay3668g2e57h6j2": {
     "name": "FilDA",
     "description": "FilDA is a secure decentralized digital asset bank.",
@@ -485,5 +533,29 @@
     "symbol": "FILDA",
     "type": "xrc20",
     "logo": "io1xgy9hr4g23ffz79apa8f95lay3668g2e57h6j2.png"
+  },
+  "io1etcq5krprmxnqg9jqxzfefm2xmyx8gq5p20lwg": {
+    "name": "BOT",
+    "description": "Multichain ecosystem built under the UX of an NFT-based Play-To-Earn game. Unique wallet with a built in NFT Marketplace, DEX, seasonal NFT and Token AirDrops & game-based Multifunctional messenger.",
+    "decimals": 18,
+    "symbol": "BOT",
+    "type": "xrc20",
+    "logo": "io1etcq5krprmxnqg9jqxzfefm2xmyx8gq5p20lwg.png"
+  },
+  "io1cx6cvg9dswfc83nzhl5qmdz3gdzda3khtt6asw": {
+    "name": "BioShib",
+    "description": "BioShib",
+    "logo": "io186ngxd2tlrf4nnv7cmsgkkhv9ywhrkyq8rejue.png",
+    "type": "xrc20",
+    "symbol": "bioShib",
+    "decimals": 18
+  },
+  "io1daejpenv38639dw8xplp7c9zr4ff0c9p9kfx3g": {
+    "name": "CloutContracts",
+    "decimals": 0,
+    "symbol": "CCS",
+    "type": "xrc20",
+    "description": "CloutContracts",
+    "logo": "io1daejpenv38639dw8xplp7c9zr4ff0c9p9kfx3g.png"
   }
 }
