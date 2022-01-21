@@ -549,5 +549,13 @@
     "type": "xrc20",
     "description": "CloutContracts",
     "logo": "io1daejpenv38639dw8xplp7c9zr4ff0c9p9kfx3g.png"
+  },
+  "io1wu3dd95vn0kexpftahsd5eky3f5gqxuaykl039": {
+    "name": "Cartesi Ideathon",
+    "decimals": 0,
+    "symbol": "CTH",
+    "type": "xrc721",
+    "description": "Cartesi Ideathon",
+    "logo": "io1wu3dd95vn0kexpftahsd5eky3f5gqxuaykl039.png"
   }
 }
