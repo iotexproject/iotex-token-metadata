@@ -556,6 +556,7 @@
     "symbol": "CTH",
     "type": "xrc721",
     "description": "Cartesi Ideathon",
-    "logo": "io1wu3dd95vn0kexpftahsd5eky3f5gqxuaykl039.png"
+    "logo": "io1wu3dd95vn0kexpftahsd5eky3f5gqxuaykl039.png",
+    "image_urls": ["https://iopayproject.iopay.me/web-iopay-v2/main/public/images/iopay/cartesi_nft_0.gif"]
   }
 }
