@@ -558,5 +558,14 @@
     "description": "Cartesi Ideathon",
     "logo": "io1wu3dd95vn0kexpftahsd5eky3f5gqxuaykl039.png",
     "image_urls": ["https://iopayproject.iopay.me/web-iopay-v2/main/public/images/iopay/cartesi_nft_0.gif"]
+  },
+  "io1um0k7entu0vagpsdzn0ycnnh3cddmwgj0lpsmw": {
+    "name": "Pebble Pioneer",
+    "decimals": 0,
+    "symbol": "PPT",
+    "type": "xrc721",
+    "description": "Pebble Pioneer NFTs",
+    "logo": "io1um0k7entu0vagpsdzn0ycnnh3cddmwgj0lpsmw.png",
+    "image_urls": ["https://nft.iotex.io/tokens/pebble_pioneer/image.gif"]
   }
 }
