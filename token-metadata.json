@@ -1,4 +1,12 @@
 {
+  "io1np2836k2z4ry445kssy7869gklqkwkhyfmfsm2": {
+    "name": "IO PUNK DAO",
+    "description": "IO Punk DAO is a the P2E DAO Token for IoTeXPUNKS Community.",
+    "logo": "io1np2836k2z4ry445kssy7869gklqkwkhyfmfsm2.png",
+    "type": "xrc20",
+    "symbol": "IOP",
+    "decimals": 18
+  },
   "io1hp6y4eqr90j7tmul4w2wa8pm7wx462hq0mg4tw": {
     "name": "Vitality",
     "description": "Vitality (VITA) is a decentralized token for the IoTeX community.",
