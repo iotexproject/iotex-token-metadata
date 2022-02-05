@@ -5,7 +5,8 @@
     "logo": "io1np2836k2z4ry445kssy7869gklqkwkhyfmfsm2.png",
     "type": "xrc20",
     "symbol": "IOP",
-    "decimals": 18
+    "decimals": 18,
+    "image_urls": ["https://i.ibb.co/4jSKB22/iologo.png"]
   },
   "io1hp6y4eqr90j7tmul4w2wa8pm7wx462hq0mg4tw": {
     "name": "Vitality",
