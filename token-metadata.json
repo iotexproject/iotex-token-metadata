@@ -567,5 +567,14 @@
     "description": "Pebble Pioneer NFTs",
     "logo": "io1um0k7entu0vagpsdzn0ycnnh3cddmwgj0lpsmw.png",
     "image_urls": ["https://nft.iotex.io/tokens/pebble_pioneer/image.gif"]
+  },
+  "io1hnwjz9ml24lsfyls9lx6wydv2g3g9evshlckgj": {
+    "name": "Covalent x IoTeX",
+    "decimals": 0,
+    "symbol": "CXI",
+    "type": "xrc721",
+    "description": "Covalent IoTeX NFTs",
+    "logo": "io1hnwjz9ml24lsfyls9lx6wydv2g3g9evshlckgj.png",
+    "image_urls": ["https://nft.iotex.io/tokens/covalent_iotex/cover.png"]
   }
 }
