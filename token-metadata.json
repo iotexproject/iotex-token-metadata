@@ -1,4 +1,12 @@
 {
+  "io1eccqkq92nsrx0pkkp87fv55ahmd2xzmkxpt677": { 
+    "name": "IoTeX PUNKS", 
+    "description": "10,000 algorithmically generated PUNKS with Custom IOTX Designs.", 
+    "logo": "io1eccqkq92nsrx0pkkp87fv55ahmd2xzmkxpt677.png", 
+    "type": "xrc721",
+    "symbol": "PUNK",
+    "image_urls": ["https://i.ibb.co/hLMSGgv/iotex-Punks.png"]
+  },
   "io1hp6y4eqr90j7tmul4w2wa8pm7wx462hq0mg4tw": {
     "name": "Vitality",
     "description": "Vitality (VITA) is a decentralized token for the IoTeX community.",
