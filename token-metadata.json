@@ -8,6 +8,14 @@
     "decimals": 18,
     "image_urls": ["https://i.ibb.co/4jSKB22/iologo.png"]
   },
+  "io1eccqkq92nsrx0pkkp87fv55ahmd2xzmkxpt677": {
+    "name": "IoTeX PUNKS",
+    "description": "10,000 algorithmically generated PUNKS with Custom IOTX Designs.",
+    "logo": "io1eccqkq92nsrx0pkkp87fv55ahmd2xzmkxpt677.png",
+    "type": "xrc721",
+    "symbol": "PUNK",
+    "image_urls": ["https://i.ibb.co/hLMSGgv/iotex-Punks.png"]
+  },
   "io1hp6y4eqr90j7tmul4w2wa8pm7wx462hq0mg4tw": {
     "name": "Vitality",
     "description": "Vitality (VITA) is a decentralized token for the IoTeX community.",
@@ -495,6 +503,14 @@
     "type": "xrc20",
     "logo": "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu.png"
   },
+  "io1xa2g3uyhzajs0cumjefm3r7u2tx7wd4lyam5y7": {
+    "name": "Space Token",
+    "description": "Space Token is the incentivization token of xDollar Space(V2).",
+    "decimals": 18,
+    "symbol": "SPACE",
+    "type": "xrc20",
+    "logo": "io1xa2g3uyhzajs0cumjefm3r7u2tx7wd4lyam5y7.png"
+  },
   "io1ex2s5f8f3d7hruzktslpqpywt78vgvzsx384dw": {
     "name": "Blade Warrior",
     "description": "Blade Warrior is an open blockchain game ecosystem. The team comes from well-known 3A game development companies and well-known international blockchain organizations.",
@@ -576,5 +592,22 @@
     "description": "Pebble Pioneer NFTs",
     "logo": "io1um0k7entu0vagpsdzn0ycnnh3cddmwgj0lpsmw.png",
     "image_urls": ["https://nft.iotex.io/tokens/pebble_pioneer/image.gif"]
+  },
+  "io1hnwjz9ml24lsfyls9lx6wydv2g3g9evshlckgj": {
+    "name": "Covalent x IoTeX",
+    "decimals": 0,
+    "symbol": "CXI",
+    "type": "xrc721",
+    "description": "Covalent IoTeX NFTs",
+    "logo": "io1hnwjz9ml24lsfyls9lx6wydv2g3g9evshlckgj.png",
+    "image_urls": ["https://nft.iotex.io/tokens/covalent_iotex/cover.png"]
+  },
+  "io1g29kuat5d727cqcjv5ta8607ys9kdp5fx702ua": {
+    "name": "Crosschain Shibex",
+    "description": "Crosschain token for Shibex",
+    "logo": "io1g29kuat5d727cqcjv5ta8607ys9kdp5fx702ua.png",
+    "type": "xrc20",
+    "symbol": "CSHIBX",
+    "decimals": 18
   }
 }
