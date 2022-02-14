@@ -494,6 +494,14 @@
     "type": "xrc20",
     "logo": "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu.png"
   },
+  "io1xa2g3uyhzajs0cumjefm3r7u2tx7wd4lyam5y7": {
+    "name": "Space Token",
+    "description": "Space Token is the incentivization token of xDollar Space(V2).",
+    "decimals": 18,
+    "symbol": "SPACE",
+    "type": "xrc20",
+    "logo": "io1xa2g3uyhzajs0cumjefm3r7u2tx7wd4lyam5y7.png"
+  },
   "io1ex2s5f8f3d7hruzktslpqpywt78vgvzsx384dw": {
     "name": "Blade Warrior",
     "description": "Blade Warrior is an open blockchain game ecosystem. The team comes from well-known 3A game development companies and well-known international blockchain organizations.",
