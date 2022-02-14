@@ -573,7 +573,9 @@
     "type": "xrc721",
     "description": "Cartesi Ideathon",
     "logo": "io1wu3dd95vn0kexpftahsd5eky3f5gqxuaykl039.png",
-    "image_urls": ["https://iopayproject.iopay.me/web-iopay-v2/main/public/images/iopay/cartesi_nft_0.gif"]
+    "image_urls": [
+      "https://iopayproject.iopay.me/web-iopay-v2/main/public/images/iopay/cartesi_nft_0.gif"
+    ]
   },
   "io1um0k7entu0vagpsdzn0ycnnh3cddmwgj0lpsmw": {
     "name": "Pebble Pioneer",
@@ -600,11 +602,13 @@
     "type": "xrc20",
     "symbol": "CSHIBX",
     "decimals": 18
-  }
-    "io18atwpsmdyafk0wx9qgysahec9zdnm6sd8ax46e": {
+  },
+  "io18atwpsmdyafk0wx9qgysahec9zdnm6sd8ax46e": {
     "name": "Mai Stablecoin",
     "description": "Mai Stablecoin from QiDao Protocol",
-    "image_urls": ["https://user-images.githubusercontent.com/99628755/153795189-3bfbb2bf-e171-40c7-b776-9c78d871993a.png"]
+    "image_urls": [
+      "https://user-images.githubusercontent.com/99628755/153795189-3bfbb2bf-e171-40c7-b776-9c78d871993a.png"
+    ],
     "type": "xrc20",
     "symbol": "MAI",
     "decimals": 18
