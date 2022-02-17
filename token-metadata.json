@@ -611,5 +611,13 @@
     "type": "xrc20",
     "symbol": "MAI",
     "decimals": 18
-  }
+  },
+  "io1vfltu6377zj2p8mz5kwz5x8756uyde30ga7pds": {
+    "name": "TRPublisher",
+    "description": "TRPublisher Token and Video Platform",
+    "logo": "io1vfltu6377zj2p8mz5kwz5x8756uyde30ga7pds.png",
+    "image_urls": [https://drive.google.com/file/d/1vPj3yANC-cWC_1gEOmPOFD0MRWlBESxO/view?usp=sharing],
+    "type": "xrc20",
+    "symbol": "TPUB",
+    "decimals": 9
 }
