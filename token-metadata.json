@@ -251,6 +251,14 @@
     "symbol": "GFT",
     "decimals": 18
   },
+  "io1dxrdaqzw20d6rss7yce035uzs32etrnlmcpq7l": {
+    "name": "WrappedGameFantasyToken",
+    "description": "Wrapped Game Fantasy Token",
+    "logo": "io1dxrdaqzw20d6rss7yce035uzs32etrnlmcpq7l.png",
+    "type": "xrc20",
+    "symbol": "WGFT",
+    "decimals": 18
+  },
   "io1t585efypl4e9ex7xks2upnjm8saawfk0v0s5sj": {
     "name": "GameFantasyStar",
     "description": "Game Fantasy Star",
