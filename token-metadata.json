@@ -618,6 +618,7 @@
     "logo": "io1d7zv3k2t2ty3236mup52fv6pvnqu9rwpdkcde6.gif",
     "type": "xrc721",
     "symbol": "IOSA",
-    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmS51ywhHWRJNJB3ypFL982UjHSRxfMk1pGkDwyC8epeYu"]
+    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmS51ywhHWRJNJB3ypFL982UjHSRxfMk1pGkDwyC8epeYu"],
+    "decimals": 18
   }
 }
