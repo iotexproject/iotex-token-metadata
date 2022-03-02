@@ -619,5 +619,13 @@
     "type": "xrc20",
     "symbol": "MAI",
     "decimals": 18
+  },
+  "io1yt3seeywrckl78f8zxvehs6mk6dv36cnvljex3": {
+    "name": "Iotex_Sons_Avatars ",
+    "description": "The Iotexsons Second avatar collection",
+    "logo": "io1yt3seeywrckl78f8zxvehs6mk6dv36cnvljex3.png",
+    "type": "xrc721",
+    "symbol": "IOSA",
+    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmeitJx3smDjTupgghzg1BrqXDmaW2D9XouBgXVjsxioiy/1.gif"]
   }
 }
