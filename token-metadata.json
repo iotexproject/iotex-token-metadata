@@ -585,6 +585,14 @@
       "https://iopayproject.iopay.me/web-iopay-v2/main/public/images/iopay/cartesi_nft_0.gif"
     ]
   },
+  "io1r0y9gl3hze5qz97hhgndeurl9mv3vtxs2z8868": {
+    "name": "Iotex Monster Go",
+    "description": "Iotex Monster go is a game that combines real data(iotex pebble ) to capture and cultivate monster fighting .",
+    "logo": "io1r0y9gl3hze5qz97hhgndeurl9mv3vtxs2z8868.png",
+    "type": "xrc20",
+    "symbol": "MTGO",
+    "decimals": 18
+  },
   "io1um0k7entu0vagpsdzn0ycnnh3cddmwgj0lpsmw": {
     "name": "Pebble Pioneer",
     "decimals": 0,
