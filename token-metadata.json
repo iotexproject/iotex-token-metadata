@@ -635,5 +635,13 @@
     "type": "xrc721",
     "symbol": "IOSA",
     "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmeitJx3smDjTupgghzg1BrqXDmaW2D9XouBgXVjsxioiy/1.gif"]
+  },
+  "io1jatwj5wawm5n8c6yxnd5a5ufvj23ukytr0evfq": {
+    "name": "SUMOTEX",
+    "description": "SUMOTEX Special Edition NFT",
+    "logo": "io1jatwj5wawm5n8c6yxnd5a5ufvj23ukytr0evfq.png",
+    "type": "xrc721",
+    "symbol": "SUMOTEX",
+    "image_urls": ["https://sumotex.mypinata.cloud/ipfs/QmQKKhb5hkNPwEck5vtyrEJTo264g26MBEZo3yidnjMuuk"]
   }
 }
