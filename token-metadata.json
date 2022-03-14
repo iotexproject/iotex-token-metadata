@@ -660,10 +660,10 @@
     "symbol": "TIOSS",
     "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmSK1hUo28GqGHd72zsXYb2ccZuRU3xUHDftTo8msr3tB2"]
   },
-  "io1j99fct8lun4dsuqaw8tsga4ckdf999ude5ksk6": {
+  "io1kz4s5gq78jvx03x9hyejlfz55rvyfrrykuyfnv": {
     "name": "Iotexsons Token",
     "description": "The Iotexsons Token",
-    "logo": "io1j99fct8lun4dsuqaw8tsga4ckdf999ude5ksk6.png",
+    "logo": "io1kz4s5gq78jvx03x9hyejlfz55rvyfrrykuyfnv.png",
     "type": "xrc20",
     "symbol": "IOS",
     "decimals": 18
