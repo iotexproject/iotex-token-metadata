@@ -643,5 +643,21 @@
     "type": "xrc721",
     "symbol": "SUMOTEX",
     "image_urls": ["https://sumotex.mypinata.cloud/ipfs/QmQKKhb5hkNPwEck5vtyrEJTo264g26MBEZo3yidnjMuuk"]
+  },
+  "io12h9u098h2alr66mc0sq55cru8ymnvvhtgnx4sv": {
+    "name": "Iotexsons avatar",
+    "description": "The Iotexsons avatar collections",
+    "logo": "io12h9u098h2alr66mc0sq55cru8ymnvvhtgnx4sv.png",
+    "type": "xrc721",
+    "symbol": "TIOS",
+    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/Qmbm5qw8xXcsusCgA7ZQQyrXbzaceX8BLURhHnRGKCX4C2"]
+  },
+  "io1hej3flz2wqne8er0udgkl3cdzcx38frrqs7pwt": {
+    "name": "Iotexsons special",
+    "description": "The Iotexsons special collections",
+    "logo": "io1hej3flz2wqne8er0udgkl3cdzcx38frrqs7pwt.png",
+    "type": "xrc721",
+    "symbol": "TIOSS",
+    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmSK1hUo28GqGHd72zsXYb2ccZuRU3xUHDftTo8msr3tB2"]
   }
 }
