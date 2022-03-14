@@ -659,5 +659,13 @@
     "type": "xrc721",
     "symbol": "TIOSS",
     "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmSK1hUo28GqGHd72zsXYb2ccZuRU3xUHDftTo8msr3tB2"]
+  },
+  "io1j99fct8lun4dsuqaw8tsga4ckdf999ude5ksk6": {
+    "name": "Iotexsons Token",
+    "description": "The Iotexsons Token",
+    "logo": "io1j99fct8lun4dsuqaw8tsga4ckdf999ude5ksk6.png",
+    "type": "xrc20",
+    "symbol": "IOS",
+    "decimals": 18
   }
 }
