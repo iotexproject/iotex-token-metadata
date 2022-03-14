@@ -495,10 +495,10 @@
     "symbol": "FOR"
   },
   "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu": {
-    "name": "xDollar Interverse Money",
+    "name": "xDollar Interverse Money (Old)",
     "description": "xDollar Finance, the decentralized 0% interest rate lending protocol of xDollar Interverse Money.",
     "decimals": 18,
-    "symbol": "XIM",
+    "symbol": "XIM(Old)",
     "type": "xrc20",
     "logo": "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu.png"
   },
