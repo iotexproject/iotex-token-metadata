@@ -628,14 +628,6 @@
     "symbol": "MAI",
     "decimals": 18
   },
-  "io1yt3seeywrckl78f8zxvehs6mk6dv36cnvljex3": {
-    "name": "Iotex_Sons_Avatars ",
-    "description": "The Iotexsons Second avatar collection",
-    "logo": "io1yt3seeywrckl78f8zxvehs6mk6dv36cnvljex3.png",
-    "type": "xrc721",
-    "symbol": "IOSA",
-    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmeitJx3smDjTupgghzg1BrqXDmaW2D9XouBgXVjsxioiy/1.gif"]
-  },
   "io1jatwj5wawm5n8c6yxnd5a5ufvj23ukytr0evfq": {
     "name": "SUMOTEX",
     "description": "SUMOTEX Special Edition NFT",
@@ -658,7 +650,7 @@
     "logo": "io12h9u098h2alr66mc0sq55cru8ymnvvhtgnx4sv.png",
     "type": "xrc721",
     "symbol": "TIOS",
-    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/Qmbm5qw8xXcsusCgA7ZQQyrXbzaceX8BLURhHnRGKCX4C2"]
+    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmQEwcgKJf1GXbVvTMEvWfUYduVCHiha2zNS5ePR68rGzT"]
   },
   "io1hej3flz2wqne8er0udgkl3cdzcx38frrqs7pwt": {
     "name": "Iotexsons special",
@@ -666,6 +658,14 @@
     "logo": "io1hej3flz2wqne8er0udgkl3cdzcx38frrqs7pwt.png",
     "type": "xrc721",
     "symbol": "TIOSS",
-    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmSK1hUo28GqGHd72zsXYb2ccZuRU3xUHDftTo8msr3tB2"]
+    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmPy7ZdRhdagFbsn28Fp9cbzTx8dsbjixPp8k4JgWWmdsq"]
+  },
+  "io1kz4s5gq78jvx03x9hyejlfz55rvyfrrykuyfnv": {
+    "name": "Iotexsons Token",
+    "description": "The Iotexsons Token",
+    "logo": "io1kz4s5gq78jvx03x9hyejlfz55rvyfrrykuyfnv.png",
+    "type": "xrc20",
+    "symbol": "IOS",
+    "decimals": 18
   }
 }
