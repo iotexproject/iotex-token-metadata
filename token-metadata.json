@@ -495,10 +495,10 @@
     "symbol": "FOR"
   },
   "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu": {
-    "name": "xDollar Interverse Money",
+    "name": "xDollar Interverse Money (Old)",
     "description": "xDollar Finance, the decentralized 0% interest rate lending protocol of xDollar Interverse Money.",
     "decimals": 18,
-    "symbol": "XIM",
+    "symbol": "XIM(Old)",
     "type": "xrc20",
     "logo": "io1a35seh2y3c7tk50dzdwlwgcpcvn94ruqsshltu.png"
   },
@@ -643,6 +643,14 @@
     "type": "xrc721",
     "symbol": "SUMOTEX",
     "image_urls": ["https://sumotex.mypinata.cloud/ipfs/QmQKKhb5hkNPwEck5vtyrEJTo264g26MBEZo3yidnjMuuk"]
+  },
+  "io1kcshra7xxac8ex7c6vqvjgfhc3lkxpj7ac4rkl": {
+    "name": "xDollar Interverse Money",
+    "description": "xDollar Finance, the decentralized 0% interest rate lending protocol of xDollar Interverse Money.",
+    "decimals": 18,
+    "symbol": "XIM",
+    "type": "xrc20",
+    "logo": "io1kcshra7xxac8ex7c6vqvjgfhc3lkxpj7ac4rkl.png"
   },
   "io12h9u098h2alr66mc0sq55cru8ymnvvhtgnx4sv": {
     "name": "Iotexsons avatar",
