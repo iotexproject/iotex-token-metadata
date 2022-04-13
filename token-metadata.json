@@ -644,21 +644,21 @@
     "type": "xrc20",
     "logo": "io1kcshra7xxac8ex7c6vqvjgfhc3lkxpj7ac4rkl.png"
   },
-  "io12h9u098h2alr66mc0sq55cru8ymnvvhtgnx4sv": {
-    "name": "Iotexsons avatar",
-    "description": "The Iotexsons avatar collections",
-    "logo": "io12h9u098h2alr66mc0sq55cru8ymnvvhtgnx4sv.png",
+  "io1vm624puwygq6x9k44ryzywqxuqu5vw6lkq8883": {
+    "name": "Iotexsons Avatar",
+    "description": "Iotexsons Avatar NFTs",
+    "logo": "io1vm624puwygq6x9k44ryzywqxuqu5vw6lkq8883.png",
     "type": "xrc721",
-    "symbol": "TIOS",
-    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmQEwcgKJf1GXbVvTMEvWfUYduVCHiha2zNS5ePR68rGzT"]
+    "symbol": "IOTEXSONSAVATAR",
+    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmPv6kKSyQWCFTG2ppkdKs9w8wZ8DcdmF4hUufm7acU9Qs"]
   },
-  "io1hej3flz2wqne8er0udgkl3cdzcx38frrqs7pwt": {
-    "name": "Iotexsons special",
-    "description": "The Iotexsons special collections",
-    "logo": "io1hej3flz2wqne8er0udgkl3cdzcx38frrqs7pwt.png",
+  "io10gdls9qf8r884dtmla40xy70c2dk9s3p6yq0r3": {
+    "name": "Iotexsons Special",
+    "description": "Iotexsons Special NFTs",
+    "logo": "io10gdls9qf8r884dtmla40xy70c2dk9s3p6yq0r3.png",
     "type": "xrc721",
-    "symbol": "TIOSS",
-    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmPy7ZdRhdagFbsn28Fp9cbzTx8dsbjixPp8k4JgWWmdsq"]
+    "symbol": "IOTEXSONSSP",
+    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmeoKFWBde5pUAYer4kzzCDY1rLGh6NAS974fHkuB9wc83"]
   },
   "io1kz4s5gq78jvx03x9hyejlfz55rvyfrrykuyfnv": {
     "name": "Iotexsons Token",
