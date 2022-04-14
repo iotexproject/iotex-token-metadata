@@ -675,5 +675,13 @@
     "type": "xrc20",
     "symbol": "BALL",
     "decimals": 18
+  },
+  "io1u42hh0j787vrlywf7suqheuhddjcvh3c6g5y58": {
+    "name": "Community Leader",
+    "symbol": "CLT",
+    "type": "xrc721",
+    "description": "IoTeX Community Leader NFTs.",
+    "logo": "io1u42hh0j787vrlywf7suqheuhddjcvh3c6g5y58.png",
+    "image_urls": ["https://nft.iotex.io/tokens/community_leader/image.gif"]
   }
 }
