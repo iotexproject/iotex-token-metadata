@@ -650,7 +650,7 @@
     "logo": "io1vm624puwygq6x9k44ryzywqxuqu5vw6lkq8883.png",
     "type": "xrc721",
     "symbol": "IOTEXSONSAVATAR",
-    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmPv6kKSyQWCFTG2ppkdKs9w8wZ8DcdmF4hUufm7acU9Qs"]
+    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmUsQ3B83MAEHyLSHixctzN2ZWta93ab3qpRLtzpQ6f7Rj"]
   },
   "io10gdls9qf8r884dtmla40xy70c2dk9s3p6yq0r3": {
     "name": "Iotexsons Special",
@@ -658,7 +658,7 @@
     "logo": "io10gdls9qf8r884dtmla40xy70c2dk9s3p6yq0r3.png",
     "type": "xrc721",
     "symbol": "IOTEXSONSSP",
-    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmeoKFWBde5pUAYer4kzzCDY1rLGh6NAS974fHkuB9wc83"]
+    "image_urls": ["https://iotexsons.mypinata.cloud/ipfs/QmVN86TDoUZJNgs5CM99YuhrCEKVxrqbAPuNhTmgortfys"]
   },
   "io1kz4s5gq78jvx03x9hyejlfz55rvyfrrykuyfnv": {
     "name": "Iotexsons Token",
