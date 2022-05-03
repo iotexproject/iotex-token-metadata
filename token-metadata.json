@@ -644,6 +644,22 @@
     "type": "xrc20",
     "logo": "io1kcshra7xxac8ex7c6vqvjgfhc3lkxpj7ac4rkl.png"
   },
+  "io15mgljzl7lr4tk9snwddwfnytskj8kz6dqd3w9y": {
+    "name": "Ball",
+    "description": "Pixiesoccers Token, created with love by Pixiesoccer <3",
+    "logo": "io15mgljzl7lr4tk9snwddwfnytskj8kz6dqd3w9y.png",
+    "type": "xrc20",
+    "symbol": "BALL",
+    "decimals": 18
+  },
+  "io1u42hh0j787vrlywf7suqheuhddjcvh3c6g5y58": {
+    "name": "Community Leader",
+    "symbol": "CLT",
+    "type": "xrc721",
+    "description": "IoTeX Community Leader NFTs.",
+    "logo": "io1u42hh0j787vrlywf7suqheuhddjcvh3c6g5y58.png",
+    "image_urls": ["https://nft.iotex.io/tokens/community_leader/image.gif"]
+  },
   "io1vm624puwygq6x9k44ryzywqxuqu5vw6lkq8883": {
     "name": "Iotexsons Avatar",
     "description": "Iotexsons Avatar NFTs",
@@ -667,21 +683,5 @@
     "type": "xrc20",
     "symbol": "IOS",
     "decimals": 18
-  },
-  "io15mgljzl7lr4tk9snwddwfnytskj8kz6dqd3w9y": {
-    "name": "Ball",
-    "description": "Pixiesoccers Token, created with love by Pixiesoccer <3",
-    "logo": "io15mgljzl7lr4tk9snwddwfnytskj8kz6dqd3w9y.png",
-    "type": "xrc20",
-    "symbol": "BALL",
-    "decimals": 18
-  },
-  "io1u42hh0j787vrlywf7suqheuhddjcvh3c6g5y58": {
-    "name": "Community Leader",
-    "symbol": "CLT",
-    "type": "xrc721",
-    "description": "IoTeX Community Leader NFTs.",
-    "logo": "io1u42hh0j787vrlywf7suqheuhddjcvh3c6g5y58.png",
-    "image_urls": ["https://nft.iotex.io/tokens/community_leader/image.gif"]
   }
 }
