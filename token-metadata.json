@@ -691,5 +691,13 @@
     "type": "xrc20",
     "symbol": "IOS",
     "decimals": 18
+  },
+  "io1sq2jtx7p5u97xhkfez0s2hu3p4wla793kal2gn": { 
+    "name": "Know Genesis NFT", 
+    "description": "know to earn Genesis NFT", 
+    "logo": "io1sq2jtx7p5u97xhkfez0s2hu3p4wla793kal2gn.png", 
+    "type": "xrc721", 
+    "symbol": "GKTE", 
+    "image_urls": ["https://www.knowtoearn.io/images/io1sq2jtx7p5u97xhkfez0s2hu3p4wla793kal2gn.png"] 
   }
 }
