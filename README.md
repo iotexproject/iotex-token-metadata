@@ -51,7 +51,10 @@ We will only take into consideration projects that show clear signs of activity:
 - Make sure your PR includes a link to official project website referencing the token contract address you are submitting. Also, the website should include a detailed explanation of project.
 - No Profanity in token name, description, etc.
 
-## Usage
+## Displaying on IoTeXScan and ioPay
+It takes 5-30 mins to show up in iotexscan.io and ioPay after your PR is merged. If it does not show up, please join discord and report. https://iotex.io/discord
+
+## Dev in your project
 Install this package from npm with `npm install iotex-token-metadata -s` and use it in your code like in the example below:
 
 ```javascript
