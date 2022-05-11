@@ -660,6 +660,14 @@
     "logo": "io1u42hh0j787vrlywf7suqheuhddjcvh3c6g5y58.png",
     "image_urls": ["https://nft.iotex.io/tokens/community_leader/image.gif"]
   },
+  "io129f58mgykp2dpx9qc9wt6luckqjs6zechen8uv": {
+    "name": "Know to earn",
+    "description": "KNOW is a decentralized token for the Know to earn.",
+    "logo": "io129f58mgykp2dpx9qc9wt6luckqjs6zechen8uv.png",
+    "type": "xrc20",
+    "symbol": "KNOW",
+    "decimals": 18
+  },
   "io1vm624puwygq6x9k44ryzywqxuqu5vw6lkq8883": {
     "name": "Iotexsons Avatar",
     "description": "Iotexsons Avatar NFTs",
@@ -683,5 +691,13 @@
     "type": "xrc20",
     "symbol": "IOS",
     "decimals": 18
+  },
+  "io1sq2jtx7p5u97xhkfez0s2hu3p4wla793kal2gn": { 
+    "name": "Know Genesis NFT", 
+    "description": "know to earn Genesis NFT", 
+    "logo": "io1sq2jtx7p5u97xhkfez0s2hu3p4wla793kal2gn.png", 
+    "type": "xrc721", 
+    "symbol": "GKTE", 
+    "image_urls": ["https://www.knowtoearn.io/images/io1sq2jtx7p5u97xhkfez0s2hu3p4wla793kal2gn.png"] 
   }
 }
