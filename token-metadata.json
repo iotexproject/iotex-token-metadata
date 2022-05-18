@@ -1,4 +1,12 @@
 {
+  "io1gcyw7u2vsprhwyz5w46qnsdy2880345l4hvqd3": {
+    "name": "Iotex Web3 Domains",
+    "description": "IoTeX Web3 Domains - Building Identity on blockchain with .iotx domains",
+    "logo": "io1gcyw7u2vsprhwyz5w46qnsdy2880345l4hvqd3.png",
+    "type": "xrc721",
+    "symbol": "IWD",
+    "decimals": 0
+  },
   "io1eccqkq92nsrx0pkkp87fv55ahmd2xzmkxpt677": {
     "name": "IoTeX PUNKS",
     "description": "10,000 algorithmically generated PUNKS with Custom IOTX Designs.",
