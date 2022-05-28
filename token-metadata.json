@@ -699,5 +699,13 @@
     "type": "xrc721", 
     "symbol": "GKTE", 
     "image_urls": ["https://www.knowtoearn.io/images/io17y56wkr9pg6qjk9wca90ct5drefpsq5sz5dj7p.png"] 
+  },
+  "io1y78c28yc4jrv7qtrwrxf8ldzlsc3f0z2v4fl78": {
+    "name": "No War",
+    "symbol": "NWT",
+    "type": "xrc721",
+    "description": "IoTeX No War NFTs.",
+    "logo": "io1y78c28yc4jrv7qtrwrxf8ldzlsc3f0z2v4fl78.png",
+    "image_urls": ["https://nft.iotex.io/tokens/no_war/image.gif"]
   }
 }
