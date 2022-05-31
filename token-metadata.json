@@ -707,5 +707,13 @@
     "description": "IoTeX No War NFTs.",
     "logo": "io1y78c28yc4jrv7qtrwrxf8ldzlsc3f0z2v4fl78.png",
     "image_urls": ["https://nft.iotex.io/tokens/no_war/image.gif"]
+  },
+  "io126cxv7t3jkz4k6rsnaj0n83d5pq6jcaa29hkaw": { 
+    "name": "Knowtoearn governance token", 
+    "description": "Staking KNOWI can get the dividends.", 
+    "logo": "io126cxv7t3jkz4k6rsnaj0n83d5pq6jcaa29hkaw.png", 
+    "type": "xrc20", 
+    "symbol": "KNOWI", 
+    "decimals": 18 
   }
 }
