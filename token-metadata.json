@@ -715,5 +715,13 @@
     "type": "xrc20", 
     "symbol": "KNOWI", 
     "decimals": 18 
+  },
+  "io1052s604n44atw5klykwff29tnrtsplqqkdajxf": {
+    "name": "XSUMO",
+    "symbol": "XSUMO",
+    "type": "xrc721",
+    "description": "XSUMO NFT BY SUMOTEX",
+    "logo": "io1052s604n44atw5klykwff29tnrtsplqqkdajxf.png",
+    "image_urls": ["https://sumotex.mypinata.cloud/ipfs/Qmbvfk4eQ3p3uGoNTMRF1NukCybo9AxgSmS5KpXrhYX6PZ"]
   }
 }
