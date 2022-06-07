@@ -715,7 +715,8 @@
     "type": "xrc20", 
     "symbol": "KNOWI", 
     "decimals": 18 
-  },"io1052s604n44atw5klykwff29tnrtsplqqkdajxf": {
+  },
+  "io1052s604n44atw5klykwff29tnrtsplqqkdajxf": {
     "name": "XSUMO",
     "symbol": "XSUMO",
     "type": "xrc721",
