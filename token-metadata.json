@@ -700,13 +700,13 @@
     "symbol": "IOS",
     "decimals": 18
   },
-  "io17y56wkr9pg6qjk9wca90ct5drefpsq5sz5dj7p": { 
-    "name": "Know Genesis NFT", 
-    "description": "know to earn Genesis NFT", 
-    "logo": "io17y56wkr9pg6qjk9wca90ct5drefpsq5sz5dj7p.png", 
-    "type": "xrc721", 
-    "symbol": "GKTE", 
-    "image_urls": ["https://www.knowtoearn.io/images/io17y56wkr9pg6qjk9wca90ct5drefpsq5sz5dj7p.png"] 
+  "io17y56wkr9pg6qjk9wca90ct5drefpsq5sz5dj7p": {
+    "name": "Know Genesis NFT",
+    "description": "know to earn Genesis NFT",
+    "logo": "io17y56wkr9pg6qjk9wca90ct5drefpsq5sz5dj7p.png",
+    "type": "xrc721",
+    "symbol": "GKTE",
+    "image_urls": ["https://www.knowtoearn.io/images/io17y56wkr9pg6qjk9wca90ct5drefpsq5sz5dj7p.png"]
   },
   "io1y78c28yc4jrv7qtrwrxf8ldzlsc3f0z2v4fl78": {
     "name": "No War",
@@ -716,13 +716,13 @@
     "logo": "io1y78c28yc4jrv7qtrwrxf8ldzlsc3f0z2v4fl78.png",
     "image_urls": ["https://nft.iotex.io/tokens/no_war/image.gif"]
   },
-  "io126cxv7t3jkz4k6rsnaj0n83d5pq6jcaa29hkaw": { 
-    "name": "Knowtoearn governance token", 
-    "description": "Staking KNOWI can get the dividends.", 
-    "logo": "io126cxv7t3jkz4k6rsnaj0n83d5pq6jcaa29hkaw.png", 
-    "type": "xrc20", 
-    "symbol": "KNOWI", 
-    "decimals": 18 
+  "io126cxv7t3jkz4k6rsnaj0n83d5pq6jcaa29hkaw": {
+    "name": "Knowtoearn governance token",
+    "description": "Staking KNOWI can get the dividends.",
+    "logo": "io126cxv7t3jkz4k6rsnaj0n83d5pq6jcaa29hkaw.png",
+    "type": "xrc20",
+    "symbol": "KNOWI",
+    "decimals": 18
   },
   "io1052s604n44atw5klykwff29tnrtsplqqkdajxf": {
     "name": "XSUMO",
@@ -731,5 +731,13 @@
     "description": "XSUMO NFT BY SUMOTEX",
     "logo": "io1052s604n44atw5klykwff29tnrtsplqqkdajxf.png",
     "image_urls": ["https://sumotex.mypinata.cloud/ipfs/Qmbvfk4eQ3p3uGoNTMRF1NukCybo9AxgSmS5KpXrhYX6PZ"]
+  },
+  "io1clyg89pq9s7vu02524l2vrwlmw62jsavlxgtyw": {
+    "name": "cUSDC",
+    "symbol": "cUSDC",
+    "type": "xrc20",
+    "description": "Crosschain token for USDC",
+    "logo": "io1clyg89pq9s7vu02524l2vrwlmw62jsavlxgtyw.png",
+    "decimals": 6
   }
 }
