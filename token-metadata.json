@@ -739,5 +739,13 @@
     "description": "Crosschain token for USDC",
     "logo": "io1clyg89pq9s7vu02524l2vrwlmw62jsavlxgtyw.png",
     "decimals": 6
+  },
+  "io1z3pzp9c2cufmxgucmqkm9au50tfwkq0z332tu6": {
+    "name": "cBUSD",
+    "symbol": "cBUSD",
+    "type": "xrc20",
+    "description": "Crosschain token for BUSD",
+    "logo": "io1z3pzp9c2cufmxgucmqkm9au50tfwkq0z332tu6.png",
+    "decimals": 18
   }
 }
