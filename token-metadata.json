@@ -747,5 +747,13 @@
     "description": "Crosschain token for BUSD",
     "logo": "io1z3pzp9c2cufmxgucmqkm9au50tfwkq0z332tu6.png",
     "decimals": 18
+  },
+  "io16ajfjch2hlm56vnhlwvs7g7aptnvx40ksyvrz5": {
+    "name": "Cartesi",
+    "symbol": "CTSI",
+    "type": "xrc20",
+    "description": "Cartesi Token ",
+    "logo": "io16ajfjch2hlm56vnhlwvs7g7aptnvx40ksyvrz5.svg",
+    "decimals": 18
   }
 }
