@@ -708,6 +708,13 @@
     "symbol": "GKTE",
     "image_urls": ["https://www.knowtoearn.io/images/io17y56wkr9pg6qjk9wca90ct5drefpsq5sz5dj7p.png"]
   },
+  "io17zl7j3625m379detflfy57fzqnhchuysxrlz2f": {
+    "name": "Perkable",
+    "description": "Perkable (PERK) is a verifiable personal data token earned through real world verifications and used for claiming rewards from brands, services, and events.",
+    "symbol": "PERK",
+    "logo": "io17zl7j3625m379detflfy57fzqnhchuysxrlz2f.svg",
+    "type": "xrc1155"
+  },
   "io1y78c28yc4jrv7qtrwrxf8ldzlsc3f0z2v4fl78": {
     "name": "No War",
     "symbol": "NWT",
