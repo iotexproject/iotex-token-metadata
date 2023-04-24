@@ -788,5 +788,13 @@
     "description": "DWIN (Drop Wireless INfrastructure) is a token designed to support the development of advanced wireless communications networks and an array of use cases in different market verticals, all powered by web3 technology.",
     "logo": "io15uggvd649nk8arpd6z9fekv4etlcks5qwdy3pz.svg",
     "decimals": 18
+  },
+  "io1uxaenm2y9nnvdtfcqmp6lj7c7aenssd8vn7uht": {
+    "name": "Mimo Frenzy Tribe - Pippi",
+    "symbol": "MFTP",
+    "type": "xrc721",
+    "description": "Mimo Frenzy Tribe NFT",
+    "logo": "io1uxaenm2y9nnvdtfcqmp6lj7c7aenssd8vn7uht.png",
+    "image_urls": ["https://nft.iotex.io/tokens/mimo/frenzy_tribe_pippi/image.jpg"]
   }
 }
