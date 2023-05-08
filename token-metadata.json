@@ -13,7 +13,7 @@
     "logo": "io1v98n7adj05s5lxsqkrqnphqqvgjhterw2fjjyl.png",
     "type": "xrc20",
     "symbol": "FLOWCHAT",
-    "decimals": 0,
+    "decimals": 18,
     "image_urls": ["https://i.ibb.co/T8t2b0Y/io1v98n7adj05s5lxsqkrqnphqqvgjhterw2fjjyl.png"]
   },
   "io1np2836k2z4ry445kssy7869gklqkwkhyfmfsm2": {
