@@ -43,7 +43,7 @@
   },
   "io1amhwk4myypqtussctayu2tm7nvu03mhwamr8qr": {
     "name": "Elk Token",
-    "description": "ELK is a utility token built for cross-chain value transfer, governance, farm, and cross-chain bridge creation.",
+    "description": "ELK is a utility token built for cross-chain value transfer, governance, and enables the creation of farms & cross-chain bridges.",
     "logo": "io1amhwk4myypqtussctayu2tm7nvu03mhwamr8qr.png",
     "type": "xrc20",
     "symbol": "ELK",
