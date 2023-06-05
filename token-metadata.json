@@ -41,10 +41,10 @@
     "symbol": "VITA",
     "decimals": 18
   },
-  "io1u88pcraz9mrf8wk2dag8d0xuf5qc8hsuxt9s9a": {
+  "io1amhwk4myypqtussctayu2tm7nvu03mhwamr8qr": {
     "name": "Elk Token",
-    "description": "ELK is a utility token built for cross-chain value transfer using the ElkNet at Elk.Finance",
-    "logo": "io1u88pcraz9mrf8wk2dag8d0xuf5qc8hsuxt9s9a.png",
+    "description": "ELK is a utility token built for cross-chain value transfer, governance, farm, and cross-chain bridge creation.",
+    "logo": "io1amhwk4myypqtussctayu2tm7nvu03mhwamr8qr.png",
     "type": "xrc20",
     "symbol": "ELK",
     "decimals": 18
