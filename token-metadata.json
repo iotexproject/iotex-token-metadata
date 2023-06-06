@@ -1,4 +1,13 @@
 {
+"io1c5sjz3cg28gvhg3ne93lewer7af7hpcfgpjqqz": {
+    "name": "Shibapunks",
+    "description": "Collection of 777 generated unique Shibapunks",
+    "logo": "io1c5sjz3cg28gvhg3ne93lewer7af7hpcfgpjqqz.png",
+    "type": "xrc721",
+    "symbol": "SPUNK",
+    "image_urls": ["https://www.iotexshiba.io/wp-content/uploads/2023/06/spunklogo.png"]
+  },
+{
   "io1gcyw7u2vsprhwyz5w46qnsdy2880345l4hvqd3": {
     "name": "Iotex Web3 Domains",
     "description": "IoTeX Web3 Domains - Building Identity on blockchain with .iotx domains",
