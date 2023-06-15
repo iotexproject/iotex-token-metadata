@@ -796,5 +796,13 @@
     "description": "Mimo Frenzy Tribe NFT",
     "logo": "io1uxaenm2y9nnvdtfcqmp6lj7c7aenssd8vn7uht.png",
     "image_urls": ["https://nft.iotex.io/tokens/mimo/frenzy_tribe_pippi/image.jpg"]
+  },
+  "io1kn9axz8g08qv8gafj6kkcatkky362ph5jntc9r": {
+    "name": "Transhuman Coin",
+    "symbol": "THC",
+    "type": "xrc20",
+    "description": "Transhuman Coin from BSC",
+    "logo": "io1kn9axz8g08qv8gafj6kkcatkky362ph5jntc9r.png",
+    "decimals": 9
   }
 }
