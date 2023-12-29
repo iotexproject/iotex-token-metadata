@@ -812,5 +812,13 @@
     "type": "xrc20",
     "symbol": "WISH",
     "decimals": 18
+    },
+  "io1hy2g549daj65zh2xrwgvyqsslm4ntxp4pfl002": {
+    "name": "451PCBcom",
+    "description": "PCB is a token to promote, develop, make, reward, share and exchange open source hardware. It is distributed to the community who support it, creating a reputation ranking and wining hardware rewards.",
+    "logo": "io1hy2g549daj65zh2xrwgvyqsslm4ntxp4pfl002.jpg",
+    "type": "xrc20",
+    "symbol": "PCB",
+    "decimals": 8
   }
 }
