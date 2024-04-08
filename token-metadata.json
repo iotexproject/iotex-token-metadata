@@ -812,5 +812,13 @@
     "type": "xrc20",
     "symbol": "WISH",
     "decimals": 18
+  },
+  "io1xa5n8m0pqcwkgsrca7gzfet2qtsknklqahruvs": {
+    "name": "IOTX-314",
+    "description": "IOTX314 is a ERC314 token.",
+    "logo": "io1xa5n8m0pqcwkgsrca7gzfet2qtsknklqahruvs.png",
+    "type": "xrc20",
+    "symbol": "IOTX314",
+    "decimals": 18
   }
 }
