@@ -812,5 +812,13 @@
     "type": "xrc20",
     "symbol": "WISH",
     "decimals": 18
+  },
+  "io1mlu9jmtzkmf4llluner96t775jdv8sc3958ahq": {
+    "name": "DEPINNY",
+    "description": "Meet $DEPINNY, the irresistibly cute meme spreading DePIN awareness with his charm and wit.",
+    "logo": "io1mlu9jmtzkmf4llluner96t775jdv8sc3958ahq.png",
+    "type": "xrc20",
+    "symbol": "DEPINNY",
+    "decimals": 18
   }
 }
