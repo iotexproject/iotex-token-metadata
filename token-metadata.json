@@ -812,5 +812,13 @@
     "type": "xrc20",
     "symbol": "WISH",
     "decimals": 18
+  },
+  "io1ncf8xhthcuk9cdnsvdk59re08q2a3fxt9ezxzt": {
+    "name": "Functionland FULA",
+    "description": "$Fula Platform: Turn your idle devices into profit-generating data centers powering the AI revolution.",
+    "logo": "io1ncf8xhthcuk9cdnsvdk59re08q2a3fxt9ezxzt.png",
+    "type": "xrc20",
+    "symbol": "FULA",
+    "decimals": 18
   }
 }
