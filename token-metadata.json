@@ -822,3 +822,11 @@
     "decimals": 18
   }
 }
+{
+  "name": "BABYFISH",
+  "symbol": "BBF",
+  "decimals": 18,
+  "description": "BABYFISH Token",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreidm2ddtxyki5vdvcgtzfke635e5lhopzguyldl2yi6d5rsfdmwehq"
+}
+
